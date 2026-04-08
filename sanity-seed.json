@@ -1,0 +1,85 @@
+{
+  "mutations": [
+    {
+      "create": {
+        "_type": "bien",
+        "title": "Villa vue mer — Hyères",
+        "slug": { "_type": "slug", "current": "villa-vue-mer-hyeres" },
+        "status": "disponible",
+        "type": "villa",
+        "commune": "hyeres",
+        "prix": 1250000,
+        "surface": 185,
+        "pieces": 6,
+        "chambres": 4,
+        "description_fr": "Magnifique villa contemporaine avec vue panoramique sur la mer et les îles d'Or. Piscine à débordement, terrasses spacieuses, jardin paysager. Exposition plein sud, luminosité exceptionnelle.",
+        "description_en": "Stunning contemporary villa with panoramic sea view. Infinity pool, spacious terraces, landscaped garden. South-facing, exceptional light.",
+        "featured": true,
+        "ordre_affichage": 1
+      }
+    },
+    {
+      "create": {
+        "_type": "bien",
+        "title": "Maison de village — Carqueiranne",
+        "slug": { "_type": "slug", "current": "maison-village-carqueiranne" },
+        "status": "disponible",
+        "type": "maison",
+        "commune": "carqueiranne",
+        "prix": 620000,
+        "surface": 135,
+        "pieces": 5,
+        "chambres": 3,
+        "description_fr": "Maison de charme en plein coeur du village de Carqueiranne. Patio ombragé, garage, cave. À deux pas des commerces et des criques.",
+        "description_en": "Charming village house in the heart of Carqueiranne. Shaded patio, garage. Steps from the sea.",
+        "featured": true,
+        "ordre_affichage": 2
+      }
+    },
+    {
+      "create": {
+        "_type": "bien",
+        "title": "Villa provençale — La Londe-les-Maures",
+        "slug": { "_type": "slug", "current": "villa-provencale-la-londe" },
+        "status": "disponible",
+        "type": "villa",
+        "commune": "la-londe",
+        "prix": 875000,
+        "surface": 160,
+        "pieces": 6,
+        "chambres": 4,
+        "description_fr": "Belle villa provençale sur 2 500 m² de terrain arboré. Piscine, pool house, dépendance. Calme absolu, à 10 minutes des plages.",
+        "description_en": "Beautiful Provençal villa on 2,500 sqm wooded plot. Pool, pool house. Absolute peace, 10 minutes from the beaches.",
+        "featured": true,
+        "ordre_affichage": 3
+      }
+    },
+    {
+      "create": {
+        "_type": "equipe",
+        "nom": "Nathalie Mazeau",
+        "role": "Gérante",
+        "bio_fr": "30 ans d'expérience sur la Côte Varoise. Spécialiste de l'immobilier résidentiel de prestige. FR/EN.",
+        "ordre": 1
+      }
+    },
+    {
+      "create": {
+        "_type": "equipe",
+        "nom": "Sylvain Benattar",
+        "role": "Fondateur",
+        "bio_fr": "Fondateur de Rivage Immobilier. 30 ans d'ancrage local sur la Côte Varoise. FR/EN.",
+        "ordre": 2
+      }
+    },
+    {
+      "create": {
+        "_type": "equipe",
+        "nom": "Luca Benattar",
+        "role": "Collaborateur",
+        "bio_fr": "EDHEC Business School · LaSalle Investment Management Paris. FR/EN.",
+        "ordre": 3
+      }
+    }
+  ]
+}
