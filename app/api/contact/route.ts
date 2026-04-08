@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { Resend } from 'resend'
 
-const resend = new Resend(process.env.RESEND_API_KEY)
 const TO_EMAIL = process.env.CONTACT_EMAIL || 'luca.benattar@gmail.com'
 
 const PROFIL_LABELS: Record<string, string> = {
@@ -59,6 +58,13 @@ export async function POST(request: NextRequest) {
         </div>
       </div>
     `
+
+    if (!process.env.RESEND_API_KEY) {
+      console.warn('RESEND_API_KEY not configured — email not sent')
+      return NextResponse.json({ success: true })
+    }
+
+    const resend = new Resend(process.env.RESEND_API_KEY)
 
     await resend.emails.send({
       from: 'Rivage Immobilier <noreply@rivage-immobilier.fr>',
