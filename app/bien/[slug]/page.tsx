@@ -11,6 +11,7 @@ function communeLabel(commune: unknown): string {
 }
 import { ContactForm } from '@/components/ContactForm'
 import { CTAButton } from '@/components/CTAButton'
+import { PhotoGallery } from '@/components/PhotoGallery'
 
 type Params = Promise<{ slug: string }>
 
@@ -67,8 +68,11 @@ export default async function BienPage({ params }: { params: Params }) {
 
   if (!bien) notFound()
 
-  const photos = bien.photos || []
-  const mainPhoto = photos[0] ? urlFor(photos[0]).width(1200).height(750).auto('format').url() : null
+  const photos = (bien.photos || []).map((p: any) => ({
+    url: urlFor(p).width(1600).auto('format').url(),
+    alt: p.alt || bien.title,
+  }))
+  const mainPhoto = photos[0]?.url || null
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -93,29 +97,11 @@ export default async function BienPage({ params }: { params: Params }) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* Photo principale */}
-      <div className="relative" style={{ height: '70vh', minHeight: '400px' }}>
-        {mainPhoto ? (
-          <Image
-            src={mainPhoto}
-            alt={bien.title}
-            fill
-            priority
-            sizes="100vw"
-            className="object-cover"
-          />
-        ) : (
-          <div className="w-full h-full flex items-center justify-center" style={{ background: '#E8E6E1' }}>
-            <span style={{ fontSize: '4rem' }}>🏡</span>
-          </div>
-        )}
-        <div
-          className="absolute inset-0"
-          style={{ background: 'linear-gradient(to bottom, rgba(27,58,107,0.3) 0%, rgba(27,58,107,0.05) 60%, rgba(27,58,107,0) 100%)' }}
-        />
-
-        {/* Breadcrumb */}
-        <div className="absolute top-24 left-6 sm:left-10">
+      {/* Galerie interactive */}
+      <div className="relative">
+        <PhotoGallery photos={photos} title={bien.title} />
+        {/* Breadcrumb par-dessus */}
+        <div className="absolute top-24 left-6 sm:left-10 z-10">
           <Link
             href="/biens"
             className="text-sm flex items-center gap-2"
@@ -125,26 +111,6 @@ export default async function BienPage({ params }: { params: Params }) {
           </Link>
         </div>
       </div>
-
-      {/* Galerie thumbnails */}
-      {photos.length > 1 && (
-        <div className="flex gap-2 px-6 sm:px-10 py-4 overflow-x-auto" style={{ background: '#FAF8F5' }}>
-          {photos.slice(1, 5).map((photo: any, i: number) => (
-            <div
-              key={i}
-              className="flex-shrink-0 w-20 h-16 sm:w-28 sm:h-20 rounded-xl overflow-hidden"
-            >
-              <Image
-                src={urlFor(photo).width(224).height(160).auto('format').url()}
-                alt={`Photo ${i + 2}`}
-                width={224}
-                height={160}
-                className="object-cover w-full h-full"
-              />
-            </div>
-          ))}
-        </div>
-      )}
 
       {/* Contenu */}
       <div
