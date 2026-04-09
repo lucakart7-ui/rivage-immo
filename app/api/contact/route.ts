@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { Resend } from 'resend'
+
+export const dynamic = 'force-dynamic'
 
 const TO_EMAIL = process.env.CONTACT_EMAIL || 'luca.benattar@gmail.com'
 
@@ -64,6 +65,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ success: true })
     }
 
+    const { Resend } = await import('resend')
     const resend = new Resend(process.env.RESEND_API_KEY)
 
     await resend.emails.send({
