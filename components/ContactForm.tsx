@@ -12,6 +12,7 @@ export function ContactForm({ dark = false, biensTitle }: ContactFormProps) {
   const [form, setForm] = useState({
     prenom: '',
     telephone: '',
+    email: '',
     profil: 'acheteur',
     message: biensTitle ? `Je suis intéressé(e) par : ${biensTitle}` : '',
   })
@@ -101,6 +102,19 @@ export function ContactForm({ dark = false, biensTitle }: ContactFormProps) {
             style={inputStyle}
           />
         </div>
+      </div>
+
+      <div>
+        <label className="block text-xs uppercase tracking-wider mb-2" style={{ color: dark ? 'rgba(232,213,176,0.5)' : '#9A9590', fontFamily: 'var(--font-jakarta)', letterSpacing: '0.1em' }}>
+          Email
+        </label>
+        <input
+          type="email"
+          placeholder="votre@email.fr"
+          value={form.email}
+          onChange={(e) => setForm({ ...form, email: e.target.value })}
+          style={inputStyle}
+        />
       </div>
 
       <div>

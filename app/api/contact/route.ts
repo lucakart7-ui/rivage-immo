@@ -13,7 +13,7 @@ const PROFIL_LABELS: Record<string, string> = {
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json()
-    const { prenom, telephone, profil, message } = body
+    const { prenom, telephone, email, profil, message } = body
 
     if (!prenom || !telephone) {
       return NextResponse.json({ error: 'Champs requis manquants' }, { status: 400 })
@@ -41,6 +41,16 @@ export async function POST(request: NextRequest) {
               </a>
             </td>
           </tr>
+          ${email ? `
+          <tr>
+            <td style="padding: 8px 0; color: #9A9590; font-size: 13px;">Email</td>
+            <td style="padding: 8px 0;">
+              <a href="mailto:${safe(email)}" style="color: #C9A96E; font-size: 14px; text-decoration: none;">
+                ${safe(email)}
+              </a>
+            </td>
+          </tr>
+          ` : ''}
           <tr>
             <td style="padding: 8px 0; color: #9A9590; font-size: 13px;">Profil</td>
             <td style="padding: 8px 0; color: #1A1A1A; font-size: 14px;">${PROFIL_LABELS[profil] || safe(profil)}</td>
@@ -73,7 +83,7 @@ export async function POST(request: NextRequest) {
       to: TO_EMAIL,
       subject: `[Rivage] ${safe(prenom)} — ${PROFIL_LABELS[profil] || profil}`,
       html: emailHtml,
-      replyTo: undefined,
+      replyTo: email ? safe(email) : undefined,
     })
 
     return NextResponse.json({ success: true })
