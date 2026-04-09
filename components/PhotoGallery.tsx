@@ -22,18 +22,14 @@ export function PhotoGallery({ photos, title }: { photos: Photo[]; title: string
   return (
     <div>
       {/* Photo principale */}
-      <div className="relative" style={{ height: '70vh', minHeight: '400px' }}>
+      <div className="relative" style={{ height: '70vh', minHeight: '400px', background: '#1B3A6B' }}>
         <Image
           src={photos[activeIndex].url}
           alt={photos[activeIndex].alt || title}
           fill
           priority
           sizes="100vw"
-          className="object-cover transition-opacity duration-300"
-        />
-        <div
-          className="absolute inset-0"
-          style={{ background: 'linear-gradient(to bottom, rgba(27,58,107,0.3) 0%, rgba(27,58,107,0.05) 60%, rgba(27,58,107,0) 100%)' }}
+          className="object-contain transition-opacity duration-300"
         />
 
         {/* Compteur */}
