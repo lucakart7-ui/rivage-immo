@@ -154,16 +154,21 @@ export default async function AgencePage() {
             </h2>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-10">
+          <div className="flex flex-col gap-8">
             {membres.map((m: any) => {
               const photoUrl = m.photo
                 ? urlFor(m.photo).width(200).height(200).url()
                 : null
 
               return (
-                <div key={m.nom || m._id} className="text-center">
+                <div
+                  key={m.nom || m._id}
+                  className="flex flex-col sm:flex-row items-start gap-8 p-8 rounded-2xl"
+                  style={{ background: 'white', border: '1px solid rgba(201,169,110,0.12)' }}
+                >
+                  {/* Photo */}
                   <div
-                    className="w-32 h-32 rounded-full mx-auto mb-5 overflow-hidden flex items-center justify-center"
+                    className="w-24 h-24 rounded-full shrink-0 overflow-hidden flex items-center justify-center"
                     style={{
                       background: photoUrl ? 'transparent' : 'rgba(201,169,110,0.08)',
                       border: '2px solid rgba(201,169,110,0.2)',
@@ -173,36 +178,43 @@ export default async function AgencePage() {
                       <Image
                         src={photoUrl}
                         alt={m.nom}
-                        width={128}
-                        height={128}
+                        width={96}
+                        height={96}
                         className="object-cover w-full h-full"
                       />
                     ) : (
                       <span
-                        className="text-3xl"
+                        className="text-2xl"
                         style={{ fontFamily: 'var(--font-cormorant)', color: '#C9A96E', fontStyle: 'italic' }}
                       >
                         {m.initiale || m.nom.charAt(0)}
                       </span>
                     )}
                   </div>
-                  <p
-                    className="text-2xl mb-1"
-                    style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: '#1A1A1A' }}
-                  >
-                    {m.nom}
-                  </p>
-                  <p
-                    className="text-xs uppercase tracking-wider mb-4"
-                    style={{ color: '#C9A96E', fontFamily: 'var(--font-jakarta)', letterSpacing: '0.12em' }}
-                  >
-                    {m.role}
-                  </p>
-                  {(m.bio_fr || m.bio) && (
-                    <p className="text-sm leading-relaxed" style={{ color: '#9A9590', fontFamily: 'var(--font-jakarta)' }}>
-                      {m.bio_fr || m.bio}
+
+                  {/* Texte */}
+                  <div className="flex-1">
+                    <p
+                      className="text-xs uppercase tracking-wider mb-1"
+                      style={{ color: '#C9A96E', fontFamily: 'var(--font-jakarta)', letterSpacing: '0.12em' }}
+                    >
+                      {m.role}
                     </p>
-                  )}
+                    <p
+                      className="text-2xl mb-4"
+                      style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: '#1A1A1A' }}
+                    >
+                      {m.nom}
+                    </p>
+                    {(m.bio_fr || m.bio) && (
+                      <p
+                        className="text-sm leading-loose"
+                        style={{ color: '#6B6966', fontFamily: 'var(--font-jakarta)', maxWidth: '60ch' }}
+                      >
+                        {m.bio_fr || m.bio}
+                      </p>
+                    )}
+                  </div>
                 </div>
               )
             })}
