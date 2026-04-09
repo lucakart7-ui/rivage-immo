@@ -63,7 +63,7 @@ export async function getFeaturedBiens() {
   return client.fetch(
     `*[_type == "bien" && status == "disponible" && featured == true] | order(ordre_affichage asc) [0..5] {
       _id, title, slug, status, type, commune, prix, surface, pieces, chambres,
-      photos[0]{ asset, alt }
+      photos[0..0]{ asset, alt }
     }`,
     {},
     { next: { revalidate: 3600 } }
