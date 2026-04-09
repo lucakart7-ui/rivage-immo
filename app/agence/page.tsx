@@ -207,12 +207,20 @@ export default async function AgencePage() {
                       {m.nom}
                     </p>
                     {(m.bio_fr || m.bio) && (
-                      <p
-                        className="text-sm leading-loose"
-                        style={{ color: '#6B6966', fontFamily: 'var(--font-jakarta)', maxWidth: '60ch' }}
-                      >
-                        {m.bio_fr || m.bio}
-                      </p>
+                      <div className="flex flex-col gap-2" style={{ maxWidth: '60ch' }}>
+                        {(m.bio_fr || m.bio)
+                          .split(/(?<=\.)\s+/)
+                          .filter(Boolean)
+                          .map((phrase: string, i: number) => (
+                            <p
+                              key={i}
+                              className="text-sm leading-relaxed"
+                              style={{ color: '#6B6966', fontFamily: 'var(--font-jakarta)' }}
+                            >
+                              {phrase}
+                            </p>
+                          ))}
+                      </div>
                     )}
                   </div>
                 </div>
