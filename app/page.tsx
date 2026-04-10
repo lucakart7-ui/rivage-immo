@@ -227,7 +227,7 @@ export default async function Home() {
 
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 mb-12">
           {[
-            { nom: 'Nathalie Mazeau', role: 'Gérante', photoSrc: '/team/nathalie.png' },
+            { nom: 'Nathalie Mazeau', role: 'Gérante', photoSrc: '/team/nathalie.jpeg' },
             { nom: 'Sylvain Benattar', role: 'Fondateur', photoSrc: '/team/sylvain.png' },
             { nom: 'Luca Benattar', role: 'Collaborateur', photoSrc: '/team/luca.jpg' },
           ].map((m) => (
