@@ -2,7 +2,11 @@ export function StickyMobileCTA() {
   return (
     <div
       className="fixed bottom-0 left-0 right-0 z-50 md:hidden"
-      style={{ background: '#1B3A6B', borderTop: '1px solid rgba(201,169,110,0.2)' }}
+      style={{
+        background: '#1B3A6B',
+        borderTop: '1px solid rgba(201,169,110,0.2)',
+        paddingBottom: 'env(safe-area-inset-bottom)',
+      }}
     >
       <div className="flex items-center gap-3 px-4 py-3">
         <a
