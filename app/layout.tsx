@@ -88,7 +88,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           dangerouslySetInnerHTML={{ __html: JSON.stringify(agencyJsonLd) }}
         />
       </head>
-      <body className="flex flex-col min-h-screen">
+      <body className="flex flex-col min-h-screen overflow-x-hidden">
         <Nav />
         <main className="flex-1">{children}</main>
         <Footer />
