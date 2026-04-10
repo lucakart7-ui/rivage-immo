@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Contact — Rivage Immobilier Hyères',
   description:
     'Contactez Rivage Immobilier à Hyères. Vente, achat, estimation — nous répondons sous 24h.',
-  alternates: { canonical: 'https://rivage-immobilier.fr/contact' },
+  alternates: { canonical: 'https://rivage-immobilier.com/contact' },
 }
 
 export default function ContactPage() {

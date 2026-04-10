@@ -21,7 +21,7 @@ const jakarta = Plus_Jakarta_Sans({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://rivage-immobilier.fr'),
+  metadataBase: new URL('https://rivage-immobilier.com'),
   title: {
     default: 'Agence Immobilière Hyères | Rivage Immobilier',
     template: '%s | Rivage Immobilier',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://rivage-immobilier.fr',
+    url: 'https://rivage-immobilier.com',
     siteName: 'Rivage Immobilier',
     title: 'Agence Immobilière Hyères | Rivage Immobilier',
     description:
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
   },
   alternates: {
-    canonical: 'https://rivage-immobilier.fr',
+    canonical: 'https://rivage-immobilier.com',
   },
   robots: {
     index: true,
@@ -64,7 +64,7 @@ const agencyJsonLd = {
   '@type': 'RealEstateAgent',
   name: 'Rivage Immobilier',
   description: 'Agence immobilière résidentielle sur la Côte Varoise depuis 30 ans',
-  url: 'https://rivage-immobilier.fr',
+  url: 'https://rivage-immobilier.com',
   telephone: '+33616363487',
   email: 'luca.benattar@gmail.com',
   address: {

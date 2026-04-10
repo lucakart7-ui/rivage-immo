@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
       description,
       images: photoUrl ? [{ url: photoUrl }] : [],
     },
-    alternates: { canonical: `https://rivage-immobilier.fr/bien/${slug}` },
+    alternates: { canonical: `https://rivage-immobilier.com/bien/${slug}` },
   }
 }
 
@@ -79,7 +79,7 @@ export default async function BienPage({ params }: { params: Params }) {
     '@type': 'RealEstateListing',
     name: bien.title,
     description: bien.description_fr || '',
-    url: `https://rivage-immobilier.fr/bien/${slug}`,
+    url: `https://rivage-immobilier.com/bien/${slug}`,
     image: mainPhoto || '',
     price: bien.prix,
     priceCurrency: 'EUR',

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "L'Agence — Rivage Immobilier Côte Varoise",
   description:
     "Rivage Immobilier, agence immobilière indépendante sur la Côte Varoise depuis 30 ans. Hyères, Carqueiranne, La Londe, Bormes. Équipe bilingue FR/EN.",
-  alternates: { canonical: 'https://rivage-immobilier.fr/agence' },
+  alternates: { canonical: 'https://rivage-immobilier.com/agence' },
 }
 
 export const revalidate = 3600

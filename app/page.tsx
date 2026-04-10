@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: 'Agence Immobilière Hyères | Rivage Immobilier',
   description:
     "Votre expert en immobilier résidentiel à Hyères, Carqueiranne, La Londe et Bormes depuis 30 ans. Estimation gratuite, réponse sous 24h.",
-  alternates: { canonical: 'https://rivage-immobilier.fr' },
+  alternates: { canonical: 'https://rivage-immobilier.com' },
 }
 
 export const revalidate = 3600
