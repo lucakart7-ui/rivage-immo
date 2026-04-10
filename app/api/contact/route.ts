@@ -79,7 +79,7 @@ export async function POST(request: NextRequest) {
     const resend = new Resend(process.env.RESEND_API_KEY)
 
     await resend.emails.send({
-      from: 'Rivage Immobilier <onboarding@resend.dev>',
+      from: 'Rivage Immobilier <contact@rivage-immobilier.com>',
       to: TO_EMAIL,
       subject: `[Rivage] ${safe(prenom)} — ${PROFIL_LABELS[profil] || profil}`,
       html: emailHtml,
