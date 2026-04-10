@@ -23,7 +23,8 @@ export function Nav() {
   return (
     <>
       <header
-        className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-[calc(100%-32px)] max-w-5xl"
+        className="fixed top-4 left-4 right-4 z-50 max-w-5xl mx-auto"
+        style={{ left: '1rem', right: '1rem', transform: 'none' }}
         style={{ transition: 'all 0.4s cubic-bezier(0.32,0.72,0,1)' }}
       >
         <nav
