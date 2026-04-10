@@ -76,6 +76,9 @@ export function Footer() {
         >
           <p>© {new Date().getFullYear()} Rivage Immobilier. Tous droits réservés.</p>
           <div className="flex gap-4">
+            <Link href="/honoraires" className="hover:text-[#C9A96E] transition-colors">
+              Nos honoraires
+            </Link>
             <Link href="/mentions-legales" className="hover:text-[#C9A96E] transition-colors">
               Mentions légales
             </Link>
