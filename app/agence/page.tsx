@@ -59,7 +59,7 @@ export default async function AgencePage() {
       {/* Hero */}
       <section className="relative overflow-hidden" style={{ minHeight: '55vh' }}>
         <Image
-          src="/pins-penches.jpg"
+          src="/vitrine.png"
           alt="Côte Varoise"
           fill
           priority
