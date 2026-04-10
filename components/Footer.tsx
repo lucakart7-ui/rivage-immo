@@ -15,6 +15,15 @@ export function Footer() {
               Votre expert immobilier sur la Côte Varoise depuis 30 ans.
             </p>
             <a
+              href="https://maps.google.com/?q=2311+Bd+Front+de+Mer+83400+Hyères"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block text-sm transition-colors hover:text-[#C9A96E]"
+              style={{ color: 'rgba(232,213,176,0.65)' }}
+            >
+              2311 Bd Front de Mer<br />83400 Hyères
+            </a>
+            <a
               href="tel:+33616363487"
               className="block text-lg font-semibold transition-colors"
               style={{ color: '#C9A96E', fontFamily: 'var(--font-cormorant)' }}
