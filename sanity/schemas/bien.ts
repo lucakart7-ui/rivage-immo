@@ -124,6 +124,13 @@ export const bienSchema = defineType({
       ],
     }),
     defineField({
+      name: 'exclusivite',
+      title: 'Exclusivité',
+      type: 'boolean',
+      initialValue: false,
+      description: 'Affiche un bandeau "Exclusivité" sur la carte du bien',
+    }),
+    defineField({
       name: 'featured',
       title: 'Mis en avant (home)',
       type: 'boolean',

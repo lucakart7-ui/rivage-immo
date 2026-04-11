@@ -16,6 +16,7 @@ export interface Bien {
   description_fr: string
   description_en?: string
   photos: SanityImage[]
+  exclusivite?: boolean
   featured: boolean
   ordre_affichage: number
   meta_title?: string

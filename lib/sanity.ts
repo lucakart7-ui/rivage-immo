@@ -30,7 +30,7 @@ export async function getBiens(commune?: string) {
   return client.fetch(
     `${filter} | order(featured desc, ordre_affichage asc) {
       _id, title, slug, status, type, commune, prix, surface, pieces, chambres,
-      featured, ordre_affichage,
+      exclusivite, featured, ordre_affichage,
       photos[0..2]{ asset, alt }
     }`,
     params,
@@ -63,7 +63,7 @@ export async function getFeaturedBiens() {
   return client.fetch(
     `*[_type == "bien" && status == "disponible" && featured == true] | order(ordre_affichage asc) [0..5] {
       _id, title, slug, status, type, commune, prix, surface, pieces, chambres,
-      photos[0..0]{ asset, alt }
+      exclusivite, photos[0..0]{ asset, alt }
     }`,
     {},
     { next: { revalidate: 3600 } }

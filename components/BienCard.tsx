@@ -75,6 +75,24 @@ export function BienCard({ bien }: { bien: Bien }) {
               {COMMUNE_LABELS[bien.commune]}
             </span>
           </div>
+
+          {/* Badge exclusivité */}
+          {bien.exclusivite && (
+            <div className="absolute top-3 right-3">
+              <span
+                className="text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider"
+                style={{
+                  background: 'rgba(201,169,110,0.92)',
+                  color: '#1B3A6B',
+                  backdropFilter: 'blur(8px)',
+                  letterSpacing: '0.12em',
+                  fontFamily: 'var(--font-jakarta)',
+                }}
+              >
+                Exclusivité
+              </span>
+            </div>
+          )}
         </div>
 
         {/* Info */}
