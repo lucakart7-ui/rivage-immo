@@ -144,6 +144,20 @@ export default async function BienPage({ params }: { params: Params }) {
               >
                 {TYPE_LABELS[bien.type] || bien.type}
               </span>
+              {bien.exclusivite && (
+                <span
+                  className="text-xs uppercase tracking-wider px-3 py-1 rounded-full font-semibold"
+                  style={{
+                    background: 'rgba(201,169,110,0.15)',
+                    color: '#C9A96E',
+                    fontFamily: 'var(--font-jakarta)',
+                    letterSpacing: '0.12em',
+                    border: '1px solid rgba(201,169,110,0.4)',
+                  }}
+                >
+                  Exclusivité
+                </span>
+              )}
               {bien.status !== 'disponible' && (
                 <span
                   className="text-xs uppercase tracking-wider px-3 py-1 rounded-full"

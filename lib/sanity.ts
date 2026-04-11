@@ -42,7 +42,7 @@ export async function getBienBySlug(slug: string) {
   return client.fetch(
     `*[_type == "bien" && slug.current == $slug][0] {
       _id, title, slug, status, type, commune, prix, surface, pieces, chambres,
-      description_fr, description_en, featured,
+      description_fr, description_en, exclusivite, featured,
       photos[]{ asset, alt },
       meta_title, meta_description
     }`,
