@@ -7,6 +7,7 @@ import { LogoRivage } from '@/components/LogoRivage'
 const links = [
   { href: '/biens', label: 'Nos biens' },
   { href: '/agence', label: "L'agence" },
+  { href: '/faq', label: 'FAQ' },
   { href: '/contact', label: 'Contact' },
 ]
 

@@ -65,6 +65,7 @@ export function Footer() {
                 { label: 'Nos biens', href: '/biens' },
                 { label: "L'agence", href: '/agence' },
                 { label: 'Estimation gratuite', href: '/estimation-immobiliere-hyeres' },
+                { label: 'FAQ', href: '/faq' },
                 { label: 'Contact', href: '/contact' },
               ].map((l) => (
                 <Link
