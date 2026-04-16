@@ -122,7 +122,7 @@ export default function EstimationPage() {
               >
                 Préférez l'appel ?
               </p>
-              <div className="space-y-2">
+              <div className="space-y-3">
                 <div>
                   <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Nathalie</p>
                   <a
@@ -132,15 +132,29 @@ export default function EstimationPage() {
                   >
                     06 11 44 41 87
                   </a>
+                  <a
+                    href="mailto:mazeau.nathalie16@gmail.com"
+                    className="text-xs"
+                    style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}
+                  >
+                    mazeau.nathalie16@gmail.com
+                  </a>
                 </div>
                 <div>
                   <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Luca</p>
                   <a
-                    href="tel:+33611444186"
+                    href="tel:+33616363487"
                     className="text-2xl block"
                     style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: 'white' }}
                   >
-                    06 11 44 41 86
+                    06 16 36 34 87
+                  </a>
+                  <a
+                    href="mailto:luca.benattar@gmail.com"
+                    className="text-xs"
+                    style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}
+                  >
+                    luca.benattar@gmail.com
                   </a>
                 </div>
               </div>

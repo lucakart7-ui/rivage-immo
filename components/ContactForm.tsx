@@ -163,7 +163,7 @@ export function ContactForm({ dark = false, biensTitle }: ContactFormProps) {
         <p className="text-center text-sm" style={{ color: '#ef4444', fontFamily: 'var(--font-jakarta)' }}>
           Une erreur est survenue. Appelez{' '}
           <a href="tel:+33611444187" className="underline">Nathalie au 06 11 44 41 87</a>{' '}ou{' '}
-          <a href="tel:+33611444186" className="underline">Luca au 06 11 44 41 86</a>
+          <a href="tel:+33616363487" className="underline">Luca au 06 16 36 34 87</a>
         </p>
       )}
 

@@ -113,11 +113,11 @@ export default async function BiensPage() {
                 Nathalie — 06 11 44 41 87
               </a>
               <a
-                href="tel:+33611444186"
+                href="tel:+33616363487"
                 className="inline-flex items-center gap-3 px-6 py-3.5 rounded-full font-semibold text-sm"
                 style={{ background: '#C9A96E', color: '#1B3A6B', fontFamily: 'var(--font-jakarta)' }}
               >
-                Luca — 06 11 44 41 86
+                Luca — 06 16 36 34 87
               </a>
             </div>
           </div>

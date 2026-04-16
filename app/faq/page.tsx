@@ -18,7 +18,7 @@ const jsonLd = {
       name: 'Comment obtenir une estimation gratuite de mon bien à Hyères ?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: "Chez Rivage Immobilier, l'estimation d'un bien à Hyères repose sur une analyse de marché locale et une visite physique du bien. Nous croisons trois sources : les transactions récentes comparables issues de la base DVF (Demandes de Valeurs Foncières, publique et officielle), les biens actuellement en vente sur le secteur, et notre connaissance terrain acquise sur plus de 30 ans d'activité sur la commune. L'estimation est réalisée sans engagement, sous 48 à 72 heures après la visite, et vous est remise sous forme d'un avis de valeur écrit. Elle tient compte de la configuration du bien, de son état, de son exposition, de ses extérieurs, de l'année de construction, du quartier (centre-ville, La Capte, L'Almanarre, Costebelle, Les Salins, Giens) et de la saisonnalité du marché local. Pour demander une estimation, contactez l'agence au 06 11 44 41 87 (Nathalie) ou au 06 11 44 41 86 (Luca), ou via le formulaire en ligne. Réponse sous 24h. Sources : Base DVF (etalab.gouv.fr) ; Observatoire PAP.fr.",
+        text: "Chez Rivage Immobilier, l'estimation d'un bien à Hyères repose sur une analyse de marché locale et une visite physique du bien. Nous croisons trois sources : les transactions récentes comparables issues de la base DVF (Demandes de Valeurs Foncières, publique et officielle), les biens actuellement en vente sur le secteur, et notre connaissance terrain acquise sur plus de 30 ans d'activité sur la commune. L'estimation est réalisée sans engagement, sous 48 à 72 heures après la visite, et vous est remise sous forme d'un avis de valeur écrit. Elle tient compte de la configuration du bien, de son état, de son exposition, de ses extérieurs, de l'année de construction, du quartier (centre-ville, La Capte, L'Almanarre, Costebelle, Les Salins, Giens) et de la saisonnalité du marché local. Pour demander une estimation, contactez l'agence au 06 11 44 41 87 (Nathalie) ou au 06 16 36 34 87 (Luca), ou via le formulaire en ligne. Réponse sous 24h. Sources : Base DVF (etalab.gouv.fr) ; Observatoire PAP.fr.",
       },
     },
     {
@@ -267,7 +267,7 @@ export default function FAQPage() {
                 Les Salins, Giens) et de la saisonnalité du marché local.
               </p>
               <p style={answerStyle}>
-                Pour demander une estimation, contactez l&apos;agence au 06 11 44 41 87 (Nathalie) ou au 06 11 44 41 86 (Luca), ou via{' '}
+                Pour demander une estimation, contactez l&apos;agence au 06 11 44 41 87 (Nathalie) ou au 06 16 36 34 87 (Luca), ou via{' '}
                 <Link href="/estimation-immobiliere-hyeres" style={linkStyle}>
                   le formulaire d&apos;estimation en ligne
                 </Link>

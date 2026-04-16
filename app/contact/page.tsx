@@ -63,11 +63,11 @@ export default function ContactPage() {
                 <div>
                   <p className="text-xs mb-0.5" style={{ color: '#9A9590', fontFamily: 'var(--font-jakarta)' }}>Luca Benattar</p>
                   <a
-                    href="tel:+33611444186"
+                    href="tel:+33616363487"
                     className="text-2xl block"
                     style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: '#1B3A6B' }}
                   >
-                    06 11 44 41 86
+                    06 16 36 34 87
                   </a>
                   <a
                     href="mailto:luca.benattar@gmail.com"

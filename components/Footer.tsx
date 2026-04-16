@@ -23,7 +23,7 @@ export function Footer() {
             >
               2311 Bd Front de Mer<br />83400 Hyères
             </a>
-            <div className="space-y-1">
+            <div className="space-y-3">
               <div>
                 <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Nathalie</p>
                 <a
@@ -33,15 +33,29 @@ export function Footer() {
                 >
                   06 11 44 41 87
                 </a>
+                <a
+                  href="mailto:mazeau.nathalie16@gmail.com"
+                  className="block text-xs transition-colors hover:text-[#C9A96E]"
+                  style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}
+                >
+                  mazeau.nathalie16@gmail.com
+                </a>
               </div>
               <div>
                 <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Luca</p>
                 <a
-                  href="tel:+33611444186"
+                  href="tel:+33616363487"
                   className="block text-base font-semibold transition-colors"
                   style={{ color: '#C9A96E', fontFamily: 'var(--font-cormorant)' }}
                 >
-                  06 11 44 41 86
+                  06 16 36 34 87
+                </a>
+                <a
+                  href="mailto:luca.benattar@gmail.com"
+                  className="block text-xs transition-colors hover:text-[#C9A96E]"
+                  style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}
+                >
+                  luca.benattar@gmail.com
                 </a>
               </div>
             </div>

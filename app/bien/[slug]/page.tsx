@@ -280,21 +280,39 @@ export default async function BienPage({ params }: { params: Params }) {
               <p className="text-xs mb-3" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>
                 Ou appelez directement
               </p>
-              <div className="space-y-1">
-                <a
-                  href="tel:+33611444187"
-                  className="block text-base font-medium"
-                  style={{ fontFamily: 'var(--font-cormorant)', color: '#C9A96E', fontStyle: 'italic' }}
-                >
-                  Nathalie — 06 11 44 41 87
-                </a>
-                <a
-                  href="tel:+33611444186"
-                  className="block text-base font-medium"
-                  style={{ fontFamily: 'var(--font-cormorant)', color: '#C9A96E', fontStyle: 'italic' }}
-                >
-                  Luca — 06 11 44 41 86
-                </a>
+              <div className="space-y-2">
+                <div>
+                  <a
+                    href="tel:+33611444187"
+                    className="block text-base font-medium"
+                    style={{ fontFamily: 'var(--font-cormorant)', color: '#C9A96E', fontStyle: 'italic' }}
+                  >
+                    Nathalie — 06 11 44 41 87
+                  </a>
+                  <a
+                    href="mailto:mazeau.nathalie16@gmail.com"
+                    className="block text-xs"
+                    style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}
+                  >
+                    mazeau.nathalie16@gmail.com
+                  </a>
+                </div>
+                <div>
+                  <a
+                    href="tel:+33616363487"
+                    className="block text-base font-medium"
+                    style={{ fontFamily: 'var(--font-cormorant)', color: '#C9A96E', fontStyle: 'italic' }}
+                  >
+                    Luca — 06 16 36 34 87
+                  </a>
+                  <a
+                    href="mailto:luca.benattar@gmail.com"
+                    className="block text-xs"
+                    style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}
+                  >
+                    luca.benattar@gmail.com
+                  </a>
+                </div>
               </div>
             </div>
           </div>
