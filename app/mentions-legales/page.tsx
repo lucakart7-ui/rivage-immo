@@ -25,8 +25,8 @@ export default function MentionsLegales() {
           <p className="text-sm leading-relaxed" style={{ color: '#9A9590' }}>
             Rivage Immobilier<br />
             Hyères, Var (83400)<br />
-            Téléphone : <a href="tel:+33616363487" style={{ color: '#C9A96E' }}>06 16 36 34 87</a><br />
-            Email : <a href="mailto:luca.benattar@gmail.com" style={{ color: '#C9A96E' }}>luca.benattar@gmail.com</a>
+            Nathalie Mazeau — <a href="tel:+33611444187" style={{ color: '#C9A96E' }}>06 11 44 41 87</a> · <a href="mailto:mazeau.nathalie16@gmail.com" style={{ color: '#C9A96E' }}>mazeau.nathalie16@gmail.com</a><br />
+            Luca Benattar — <a href="tel:+33611444186" style={{ color: '#C9A96E' }}>06 11 44 41 86</a> · <a href="mailto:luca.benattar@gmail.com" style={{ color: '#C9A96E' }}>luca.benattar@gmail.com</a>
           </p>
         </section>
 

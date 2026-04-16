@@ -122,16 +122,28 @@ export default function EstimationPage() {
               >
                 Préférez l'appel ?
               </p>
-              <a
-                href="tel:+33616363487"
-                className="text-3xl"
-                style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: 'white' }}
-              >
-                06 16 36 34 87
-              </a>
-              <p className="text-xs mt-2" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>
-                Nathalie, Sylvain ou Luca — toujours disponibles
-              </p>
+              <div className="space-y-2">
+                <div>
+                  <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Nathalie</p>
+                  <a
+                    href="tel:+33611444187"
+                    className="text-2xl block"
+                    style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: 'white' }}
+                  >
+                    06 11 44 41 87
+                  </a>
+                </div>
+                <div>
+                  <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Luca</p>
+                  <a
+                    href="tel:+33611444186"
+                    className="text-2xl block"
+                    style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: 'white' }}
+                  >
+                    06 11 44 41 86
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
 

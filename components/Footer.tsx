@@ -23,13 +23,28 @@ export function Footer() {
             >
               2311 Bd Front de Mer<br />83400 Hyères
             </a>
-            <a
-              href="tel:+33616363487"
-              className="block text-lg font-semibold transition-colors"
-              style={{ color: '#C9A96E', fontFamily: 'var(--font-cormorant)' }}
-            >
-              06 16 36 34 87
-            </a>
+            <div className="space-y-1">
+              <div>
+                <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Nathalie</p>
+                <a
+                  href="tel:+33611444187"
+                  className="block text-base font-semibold transition-colors"
+                  style={{ color: '#C9A96E', fontFamily: 'var(--font-cormorant)' }}
+                >
+                  06 11 44 41 87
+                </a>
+              </div>
+              <div>
+                <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Luca</p>
+                <a
+                  href="tel:+33611444186"
+                  className="block text-base font-semibold transition-colors"
+                  style={{ color: '#C9A96E', fontFamily: 'var(--font-cormorant)' }}
+                >
+                  06 11 44 41 86
+                </a>
+              </div>
+            </div>
           </div>
 
           {/* Zones */}
