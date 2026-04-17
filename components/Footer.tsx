@@ -25,7 +25,7 @@ export function Footer() {
             </a>
             <div className="space-y-3">
               <div>
-                <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Nathalie</p>
+                <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Nathalie Mazeau</p>
                 <a
                   href="tel:+33611444187"
                   className="block text-base font-semibold transition-colors"
@@ -42,7 +42,7 @@ export function Footer() {
                 </a>
               </div>
               <div>
-                <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Luca</p>
+                <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Luca Benattar</p>
                 <a
                   href="tel:+33616363487"
                   className="block text-base font-semibold transition-colors"

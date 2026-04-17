@@ -287,7 +287,7 @@ export default async function BienPage({ params }: { params: Params }) {
                     className="block text-base font-medium"
                     style={{ fontFamily: 'var(--font-cormorant)', color: '#C9A96E', fontStyle: 'italic' }}
                   >
-                    Nathalie — 06 11 44 41 87
+                    Nathalie Mazeau — 06 11 44 41 87
                   </a>
                   <a
                     href="mailto:mazeau.nathalie16@gmail.com"
@@ -303,7 +303,7 @@ export default async function BienPage({ params }: { params: Params }) {
                     className="block text-base font-medium"
                     style={{ fontFamily: 'var(--font-cormorant)', color: '#C9A96E', fontStyle: 'italic' }}
                   >
-                    Luca — 06 16 36 34 87
+                    Luca Benattar — 06 16 36 34 87
                   </a>
                   <a
                     href="mailto:luca.benattar@gmail.com"
