@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/studio/', '/api/'],
       },
     ],
-    sitemap: 'https://rivage-immobilier.fr/sitemap.xml',
+    sitemap: 'https://www.rivage-immobilier.com/sitemap.xml',
   }
 }

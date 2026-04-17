@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 import { getBiensSlugs } from '@/lib/sanity'
 
-const BASE_URL = 'https://rivage-immobilier.fr'
+const BASE_URL = 'https://www.rivage-immobilier.com'
 
 export const revalidate = 3600
 
