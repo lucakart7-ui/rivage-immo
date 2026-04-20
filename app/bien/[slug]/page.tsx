@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
       description,
       images: photoUrl ? [{ url: photoUrl }] : [],
     },
-    alternates: { canonical: `https://rivage-immobilier.com/bien/${slug}` },
+    alternates: { canonical: `https://www.rivage-immobilier.com/bien/${slug}` },
   }
 }
 

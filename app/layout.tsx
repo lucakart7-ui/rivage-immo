@@ -27,7 +27,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://rivage-immobilier.com'),
+  metadataBase: new URL('https://www.rivage-immobilier.com'),
   title: {
     default: 'Agence Immobilière Hyères | Rivage Immobilier',
     template: '%s | Rivage Immobilier',
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'fr_FR',
-    url: 'https://rivage-immobilier.com',
+    url: 'https://www.rivage-immobilier.com',
     siteName: 'Rivage Immobilier',
     title: 'Agence Immobilière Hyères | Rivage Immobilier',
     description:
@@ -57,7 +57,8 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
   },
   alternates: {
-    canonical: 'https://rivage-immobilier.com',
+    canonical: 'https://www.rivage-immobilier.com',
+    languages: { 'fr': 'https://www.rivage-immobilier.com' },
   },
   robots: {
     index: true,
@@ -70,19 +71,46 @@ const agencyJsonLd = {
   '@type': 'RealEstateAgent',
   name: 'Rivage Immobilier',
   description: 'Agence immobilière résidentielle sur la Côte Varoise depuis 30 ans',
-  url: 'https://rivage-immobilier.com',
+  url: 'https://www.rivage-immobilier.com',
   telephone: '+33616363487',
   email: 'luca.benattar@gmail.com',
+  logo: {
+    '@type': 'ImageObject',
+    url: 'https://www.rivage-immobilier.com/og-image.jpg',
+    width: 1200,
+    height: 630,
+  },
+  image: 'https://www.rivage-immobilier.com/og-image.jpg',
   address: {
     '@type': 'PostalAddress',
+    streetAddress: '2311 Boulevard Front de Mer',
     addressLocality: 'Hyères',
     addressRegion: 'Var',
     postalCode: '83400',
     addressCountry: 'FR',
   },
-  areaServed: ['Hyères', 'Carqueiranne', 'La Londe-les-Maures', 'Bormes-les-Mimosas'],
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: 43.1207,
+    longitude: 6.1281,
+  },
+  areaServed: ['Hyères', 'Carqueiranne', 'La Londe-les-Maures', 'Bormes-les-Mimosas', 'Toulon', 'Le Lavandou'],
   foundingDate: '1995',
   knowsLanguage: ['fr', 'en'],
+  employee: [
+    {
+      '@type': 'Person',
+      name: 'Luca Benattar',
+      jobTitle: 'Agent immobilier',
+      telephone: '+33616363487',
+    },
+    {
+      '@type': 'Person',
+      name: 'Nathalie Mazeau',
+      jobTitle: 'Agent immobilier',
+      telephone: '+33611444187',
+    },
+  ],
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

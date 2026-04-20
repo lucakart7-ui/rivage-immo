@@ -102,7 +102,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   return {
     title: seo.title,
     description: seo.description,
-    alternates: { canonical: `https://rivage-immobilier.com/biens/${commune}` },
+    alternates: { canonical: `https://www.rivage-immobilier.com/biens/${commune}` },
   }
 }
 
@@ -262,7 +262,7 @@ export default async function CommunePage({ params }: { params: Params }) {
             '@type': 'RealEstateAgent',
             name: 'Rivage Immobilier',
             areaServed: label,
-            url: `https://rivage-immobilier.com/biens/${commune}`,
+            url: `https://www.rivage-immobilier.com/biens/${commune}`,
             telephone: '+33616363487',
           }),
         }}

@@ -4,7 +4,7 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'Nos Honoraires — Rivage Immobilier',
   description: 'Grille tarifaire des honoraires de transaction de Rivage Immobilier sur la Côte Varoise. Honoraires à charge vendeur, TVA 20%.',
-  alternates: { canonical: 'https://rivage-immobilier.com/honoraires' },
+  alternates: { canonical: 'https://www.rivage-immobilier.com/honoraires' },
 }
 
 const tranches = [

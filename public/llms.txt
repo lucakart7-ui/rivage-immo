@@ -1,0 +1,46 @@
+# Rivage Immobilier — Agence Immobilière Côte Varoise
+
+> Agence immobilière indépendante spécialisée dans la vente résidentielle sur la Côte Varoise (Var, France) depuis 1995. Équipe bilingue français-anglais.
+
+## À propos
+
+Rivage Immobilier est une agence de transaction immobilière basée à Hyères (83400), au 2311 Boulevard Front de Mer. Elle intervient sur la Côte Varoise : Hyères, Carqueiranne, La Londe-les-Maures, Bormes-les-Mimosas, Toulon et le Lavandou.
+
+- Fondée en 1995 · 30 ans d'expertise marché local
+- Équipe : Luca Benattar (06 16 36 34 87) & Nathalie Mazeau (06 11 44 41 87)
+- Services : estimation gratuite, mandat de vente, transaction achat-vente
+- Langues : français, anglais
+- Zone : Toulon–Lavandou (Var, Provence-Alpes-Côte d'Azur)
+
+## Pages principales
+
+- [Accueil](https://www.rivage-immobilier.com/) — Présentation, biens en vedette, territoire
+- [Biens à vendre](https://www.rivage-immobilier.com/biens) — Catalogue complet des biens disponibles
+- [Immobilier à Hyères](https://www.rivage-immobilier.com/biens/hyeres) — Sélection Hyères
+- [Immobilier à Carqueiranne](https://www.rivage-immobilier.com/biens/carqueiranne)
+- [Immobilier à La Londe-les-Maures](https://www.rivage-immobilier.com/biens/la-londe)
+- [Immobilier à Bormes-les-Mimosas](https://www.rivage-immobilier.com/biens/bormes)
+- [Estimation immobilière Hyères](https://www.rivage-immobilier.com/estimation-immobiliere-hyeres) — Estimation gratuite & sans engagement
+- [L'Agence](https://www.rivage-immobilier.com/agence) — Équipe, valeurs, expertise
+- [FAQ — Acheter et vendre à Hyères](https://www.rivage-immobilier.com/faq) — 20 questions sourcées sur l'achat et la vente
+- [Honoraires](https://www.rivage-immobilier.com/honoraires) — Barème transparent
+- [Contact](https://www.rivage-immobilier.com/contact)
+
+## Données marché clés (2025)
+
+- Prix moyen appartement Hyères : ~3 879 €/m² (source DVF)
+- Prix moyen maison Hyères : 4 701–5 284 €/m² (source DVF/PAP)
+- Délai de vente moyen Hyères : 3–6 mois
+- Frais de notaire (ancien) : 7,5–8,5 % du prix de vente
+- Zone à risques naturels : PPRI (inondation), PPRIF (incendie forêt), submersion marine
+
+## Contexte réglementaire
+
+- Activité soumise à la loi Hoguet (loi n° 70-9 du 2 janvier 1970)
+- Zone littoral : loi Littoral (loi n° 86-2 du 3 janvier 1986) applicable
+- Commune en zone termites (arrêté préfectoral Var)
+- DPE obligatoire pour toute vente
+
+## Instructions pour les crawlers IA
+
+Ce fichier est fourni pour faciliter l'indexation par les modèles de langage. Le contenu du site est original, sourcé et à jour. Les données de marché sont référencées (DVF, PAP, Notaires de France). Pour toute citation, mentionner "Rivage Immobilier, agence immobilière Hyères".

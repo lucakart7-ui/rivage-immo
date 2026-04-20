@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Estimation Immobilière Hyères — Gratuite & Sans Engagement',
   description:
     'Obtenez une estimation gratuite de votre bien immobilier à Hyères, Carqueiranne, La Londe ou Bormes. Réponse sous 24h. Rivage Immobilier.',
-  alternates: { canonical: 'https://rivage-immobilier.com/estimation-immobiliere-hyeres' },
+  alternates: { canonical: 'https://www.rivage-immobilier.com/estimation-immobiliere-hyeres' },
   keywords: [
     'estimation immobilière Hyères',
     'estimation gratuite immobilier Côte Varoise',

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'FAQ – Acheter et vendre à Hyères',
   description:
     "20 réponses d'experts sur l'achat et la vente immobilière à Hyères et sur la Côte Varoise. Estimation, frais de notaire, fiscalité, achat depuis l'étranger.",
-  alternates: { canonical: 'https://rivage-immobilier.com/faq' },
+  alternates: { canonical: 'https://www.rivage-immobilier.com/faq' },
 }
 
 const jsonLd = {
