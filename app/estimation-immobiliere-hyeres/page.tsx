@@ -338,8 +338,8 @@ export default function EstimationPage() {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
               {[
                 { lieu: 'Hyères', appart: '3 879 €/m²', maison: '4 701–5 284 €/m²' },
-                { lieu: 'Carqueiranne', appart: 'Marché tendu', maison: 'Premium vue mer' },
-                { lieu: 'Bormes-les-Mimosas', appart: 'Haut de gamme', maison: '5 000–8 000 €/m²' },
+                { lieu: 'Carqueiranne', appart: '4 500–5 200 €/m²', maison: '5 500–7 000 €/m²' },
+                { lieu: 'Bormes-les-Mimosas', appart: '3 900–4 600 €/m²', maison: '5 000–8 000 €/m²' },
               ].map((d) => (
                 <div key={d.lieu}>
                   <p
