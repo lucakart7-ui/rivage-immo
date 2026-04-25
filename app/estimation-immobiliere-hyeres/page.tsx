@@ -264,6 +264,7 @@ export default function EstimationPage() {
 
           {/* Colonne droite — formulaire */}
           <div
+            id="estimation-form"
             className="p-8 rounded-2xl sticky top-24"
             style={{ background: '#1B3A6B', border: '1px solid rgba(201,169,110,0.15)' }}
           >
@@ -460,10 +461,6 @@ export default function EstimationPage() {
             href="#estimation-form"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-full font-semibold text-sm"
             style={{ background: '#C9A96E', color: '#1B3A6B', fontFamily: 'var(--font-jakarta)' }}
-            onClick={(e) => {
-              e.preventDefault()
-              document.querySelector('.sticky')?.scrollIntoView({ behavior: 'smooth' })
-            }}
           >
             Demander mon estimation gratuite
           </a>
