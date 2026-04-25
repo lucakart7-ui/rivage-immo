@@ -70,8 +70,10 @@ const agencyJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'RealEstateAgent',
   name: 'Rivage Immobilier',
+  legalName: 'Rivage Immobilier SARL',
   description: 'Agence immobilière résidentielle sur la Côte Varoise depuis 30 ans',
   url: 'https://www.rivage-immobilier.com',
+  vatID: 'FR409012168',
   telephone: '+33616363487',
   email: 'luca.benattar@gmail.com',
   logo: {

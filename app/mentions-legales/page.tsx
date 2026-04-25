@@ -21,6 +21,19 @@ export default function MentionsLegales() {
 
       <div className="max-w-3xl mx-auto px-6 py-16 space-y-10" style={{ fontFamily: 'var(--font-jakarta)', color: '#1A1A1A' }}>
 
+        {/* ── Éditeur du site ── */}
+        <section>
+          <h2 className="text-xl mb-3" style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic' }}>Éditeur du site</h2>
+          <p className="text-sm leading-relaxed" style={{ color: '#9A9590' }}>
+            Rivage Immobilier — SARL au capital de 9 776 €<br />
+            RCS Toulon 409 012 168<br />
+            2311 Boulevard Front de Mer, 83400 Hyères (Var)<br />
+            <br />
+            Nathalie Mazeau — <a href="tel:+33611444187" style={{ color: '#C9A96E' }}>06 11 44 41 87</a><br />
+            Luca Benattar — <a href="tel:+33616363487" style={{ color: '#C9A96E' }}>06 16 36 34 87</a>
+          </p>
+        </section>
+
         {/* ── Activité professionnelle réglementée (Loi Hoguet) ── */}
         <section>
           <h2 className="text-xl mb-3" style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic' }}>Activité professionnelle réglementée</h2>
@@ -32,37 +45,22 @@ export default function MentionsLegales() {
             <tbody>
               <tr style={{ borderBottom: '1px solid rgba(201,169,110,0.15)' }}>
                 <td className="py-2 pr-4 font-medium" style={{ color: '#4A4845', whiteSpace: 'nowrap' }}>Carte professionnelle T</td>
-                <td className="py-2">N° [NUMÉRO CARTE T] — délivrée par la CCI du Var</td>
+                <td className="py-2">N° CPI 8305 2016 000 010 07 — délivrée par la CCI du Var</td>
               </tr>
               <tr style={{ borderBottom: '1px solid rgba(201,169,110,0.15)' }}>
-                <td className="py-2 pr-4 font-medium" style={{ color: '#4A4845', whiteSpace: 'nowrap' }}>RSAC</td>
-                <td className="py-2">N° [NUMÉRO RSAC] — Tribunal de commerce de Toulon</td>
+                <td className="py-2 pr-4 font-medium" style={{ color: '#4A4845', whiteSpace: 'nowrap' }}>RCS</td>
+                <td className="py-2">Toulon 409 012 168</td>
               </tr>
               <tr style={{ borderBottom: '1px solid rgba(201,169,110,0.15)' }}>
                 <td className="py-2 pr-4 font-medium" style={{ color: '#4A4845', whiteSpace: 'nowrap' }}>Garantie financière</td>
-                <td className="py-2">[NOM ORGANISME GARANT, ex. GALIAN ou CEGC] — montant : [X] €</td>
+                <td className="py-2">GALIAN-SMABTP, 89 rue La Boétie, 75008 Paris</td>
               </tr>
               <tr>
                 <td className="py-2 pr-4 font-medium" style={{ color: '#4A4845', whiteSpace: 'nowrap' }}>Assurance RCP</td>
-                <td className="py-2">[NOM ASSUREUR] — N° de police : [NUMÉRO]</td>
+                <td className="py-2">GALIAN-SMABTP, 89 rue La Boétie, 75008 Paris</td>
               </tr>
             </tbody>
           </table>
-          <p className="text-xs mt-3" style={{ color: '#C9A96E' }}>
-            ⚠️ Luca : merci de compléter les champs entre crochets avec vos vrais numéros.
-          </p>
-        </section>
-
-        {/* ── Éditeur du site ── */}
-        <section>
-          <h2 className="text-xl mb-3" style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic' }}>Éditeur du site</h2>
-          <p className="text-sm leading-relaxed" style={{ color: '#9A9590' }}>
-            Rivage Immobilier<br />
-            2311 Boulevard Front de Mer, 83400 Hyères (Var)<br />
-            <br />
-            Nathalie Mazeau — <a href="tel:+33611444187" style={{ color: '#C9A96E' }}>06 11 44 41 87</a><br />
-            Luca Benattar — <a href="tel:+33616363487" style={{ color: '#C9A96E' }}>06 16 36 34 87</a>
-          </p>
         </section>
 
         {/* ── Hébergement ── */}
