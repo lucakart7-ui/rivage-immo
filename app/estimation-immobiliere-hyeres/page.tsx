@@ -67,7 +67,7 @@ const jsonLd = {
         },
         {
           '@type': 'Question',
-          name: 'L'estimation est-elle vraiment gratuite ?',
+          name: "L'estimation est-elle vraiment gratuite ?",
           acceptedAnswer: {
             '@type': 'Answer',
             text: "Oui, l'estimation est entièrement gratuite et sans obligation de confier le mandat à Rivage Immobilier. Vous recevez un avis de valeur écrit et argumenté, sans aucun engagement de votre part.",
