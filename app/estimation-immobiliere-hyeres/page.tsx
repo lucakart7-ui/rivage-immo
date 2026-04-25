@@ -97,10 +97,10 @@ const etapes = [
 ]
 
 const preuves = [
-  { chiffre: '30', unite: 'ans', label: 'd'ancrage sur la Côte Varoise' },
+  { chiffre: '30', unite: 'ans', label: "d'ancrage sur la Côte Varoise" },
   { chiffre: '48h', unite: '', label: 'pour recevoir votre avis de valeur' },
   { chiffre: '4', unite: '', label: 'communes maîtrisées au détail' },
-  { chiffre: '0', unite: '€', label: 'coût de l'estimation' },
+  { chiffre: '0', unite: '€', label: "coût de l'estimation" },
 ]
 
 export default function EstimationPage() {
@@ -382,11 +382,11 @@ export default function EstimationPage() {
           <div className="space-y-6">
             {[
               {
-                q: 'L'estimation est-elle vraiment gratuite et sans engagement ?',
+                q: "L'estimation est-elle vraiment gratuite et sans engagement ?",
                 r: "Oui. Rivage Immobilier ne conditionne pas l'estimation à la signature d'un mandat. Vous recevez un avis de valeur complet et pouvez ensuite décider librement de la suite — vendre seul, passer par nous ou différer le projet.",
               },
               {
-                q: 'Combien de temps faut-il pour obtenir l'estimation ?',
+                q: "Combien de temps faut-il pour obtenir l'estimation ?",
                 r: "Après votre demande, nous planifions la visite dans les 48h. L'avis de valeur vous est remis par écrit dans les 48 à 72h suivant la visite — soit généralement sous une semaine au total.",
               },
               {
