@@ -1,0 +1,46 @@
+name: Update Markdown Mirrors
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Tous les jours à 3h du matin UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-mirrors:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 markdownify
+
+      - name: Wait for Vercel deployment (push only)
+        if: github.event_name == 'push'
+        run: sleep 120
+
+      - name: Generate mirrors
+        run: python scripts/generate_mirrors.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/mirrors/
+          if git diff --staged --quiet; then
+            echo "Aucun changement dans les mirrors, rien a committer."
+          else
+            git commit -m "chore: mise a jour automatique des markdown mirrors"
+            git push
+          fi
