@@ -5,7 +5,7 @@ import { urlFor } from '@/lib/sanity'
 import { CTAButton } from '@/components/CTAButton'
 
 export const metadata: Metadata = {
-  title: "L'Agence — Rivage Immobilier Côte Varoise",
+  title: "L'Agence — Rivage Immobilier",
   description:
     "Rivage Immobilier, agence immobilière indépendante sur la Côte Varoise depuis 30 ans. Hyères, Carqueiranne, La Londe, Bormes. Équipe bilingue FR/EN.",
   alternates: { canonical: 'https://www.rivage-immobilier.com/agence' },

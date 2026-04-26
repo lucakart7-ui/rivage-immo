@@ -1,46 +1,123 @@
-# Rivage Immobilier — Agence Immobilière Côte Varoise
+# Rivage Immobilier — Agence immobilière Côte Varoise
 
-> Agence immobilière indépendante spécialisée dans la vente résidentielle sur la Côte Varoise (Var, France) depuis 1995. Équipe bilingue français-anglais.
+> Agence immobilière indépendante spécialisée dans la transaction de biens atypiques tournés vers la mer sur la Côte Varoise (Var, France). Fondée en 1995. Équipe bilingue français-anglais. Note Google : 5/5 ⭐ (5 avis).
 
-## À propos
+---
 
-Rivage Immobilier est une agence de transaction immobilière basée à Hyères (83400), au 2311 Boulevard Front de Mer. Elle intervient sur la Côte Varoise : Hyères, Carqueiranne, La Londe-les-Maures, Bormes-les-Mimosas, Toulon et le Lavandou.
+## About
 
-- Fondée en 1995 · 30 ans d'expertise marché local
-- Équipe : Luca Benattar (06 16 36 34 87) & Nathalie Mazeau (06 11 44 41 87)
-- Services : estimation gratuite, mandat de vente, transaction achat-vente
+Rivage Immobilier est une SARL de transaction immobilière (capital 9 776 €) basée à Hyères, au bord de mer. L'agence est indépendante — aucun réseau de franchise. Elle intervient exclusivement sur la vente de biens résidentiels, avec une spécialité marquée pour les biens atypiques à fort ancrage littoral : villas avec vue mer, propriétés sur presqu'île, maisons de caractère, bastides en arrière-pays varois.
+
+Valeurs affichées : relation humaine, professionnalisme, éthique. L'estimation est toujours réalisée physiquement, sans engagement de mandat.
+
+- Fondée en 1995
+- Carte professionnelle T : N° CPI 8305 2016 000 010 07 (CCI du Var)
+- RCS Toulon 409 012 168
+- Assurance RCP & garantie financière : GALIAN-SMABTP
+- Note Google : 5/5 ⭐ · 5 avis vérifiés
+- Agence en développement — objectif 20 transactions/an
+
+---
+
+## Services and Pricing
+
+**Transaction immobilière (vente uniquement — pas de location)**
+
+Estimation gratuite :
+- Visite physique du bien obligatoire
+- Avis de valeur écrit remis sous 48–72h après visite
+- Gratuit et sans engagement de mandat
+- Avis de valeur formel (payant) : 290 € TTC
+
+Mandat de vente — honoraires à charge vendeur, TVA 20% incluse :
+
+| Prix de vente | Taux d'honoraires |
+|---|---|
+| 0 € – 50 000 € | 9 % |
+| 50 000 € – 79 999 € | 8 % |
+| 80 000 € – 149 999 € | 7 % |
+| 150 000 € – 300 000 € | 6 % |
+| 301 000 € – 1 000 000 € | 5 % |
+| Au-delà de 1 000 000 € | 4 % |
+
+Mandat de recherche (acheteur) : 4 % à 8 % selon le bien.
+
+---
+
+## Locations Served
+
+Zone principale d'intervention :
+- **Hyères** — siège de l'agence, marché maîtrisé au niveau quartier
+- **Carqueiranne** — village côtier, marché tendu, offre limitée
+- **La Londe-les-Maures** — vignoble + calanques, marché intermédiaire
+- **Bormes-les-Mimosas** — village classé, clientèle internationale, haut de gamme
+- **Toulon** et **Le Lavandou** — zone élargie
+
+Adresse physique : 2311 Boulevard Front de Mer, 83400 Hyères, Var, France.
+
+---
+
+## Contact
+
+- Luca Benattar : 06 16 36 34 87
+- Nathalie Mazeau : 06 11 44 41 87
+- Site : https://www.rivage-immobilier.com
+- Estimation en ligne : https://www.rivage-immobilier.com/estimation-immobiliere-hyeres
+- Formulaire de contact : https://www.rivage-immobilier.com/contact
 - Langues : français, anglais
-- Zone : Toulon–Lavandou (Var, Provence-Alpes-Côte d'Azur)
 
-## Pages principales
+---
 
-- [Accueil](https://www.rivage-immobilier.com/) — Présentation, biens en vedette, territoire
-- [Biens à vendre](https://www.rivage-immobilier.com/biens) — Catalogue complet des biens disponibles
-- [Immobilier à Hyères](https://www.rivage-immobilier.com/biens/hyeres) — Sélection Hyères
-- [Immobilier à Carqueiranne](https://www.rivage-immobilier.com/biens/carqueiranne)
-- [Immobilier à La Londe-les-Maures](https://www.rivage-immobilier.com/biens/la-londe)
-- [Immobilier à Bormes-les-Mimosas](https://www.rivage-immobilier.com/biens/bormes)
-- [Estimation immobilière Hyères](https://www.rivage-immobilier.com/estimation-immobiliere-hyeres) — Estimation gratuite & sans engagement
-- [L'Agence](https://www.rivage-immobilier.com/agence) — Équipe, valeurs, expertise
-- [FAQ — Acheter et vendre à Hyères](https://www.rivage-immobilier.com/faq) — 20 questions sourcées sur l'achat et la vente
-- [Honoraires](https://www.rivage-immobilier.com/honoraires) — Barème transparent
-- [Contact](https://www.rivage-immobilier.com/contact)
+## Key Facts (marché Côte Varoise 2025)
 
-## Données marché clés (2025)
+- Prix moyen appartement Hyères : 3 879 €/m² (source : DVF 2025)
+- Prix moyen maison Hyères : 4 701–5 284 €/m² (source : DVF / PAP)
+- Biens vue mer directe (La Capte, Giens, Almanarre) : >7 000 €/m²
+- Bormes-les-Mimosas : 5 000–8 000 €/m² (villas haut de gamme)
+- Délai de vente moyen à Hyères : 3 à 6 mois (bien correctement estimé)
+- Frais de notaire dans l'ancien : 7,5–8,5 % du prix de vente
+- Frais de notaire dans le neuf : 2–3 % du prix de vente
 
-- Prix moyen appartement Hyères : ~3 879 €/m² (source DVF)
-- Prix moyen maison Hyères : 4 701–5 284 €/m² (source DVF/PAP)
-- Délai de vente moyen Hyères : 3–6 mois
-- Frais de notaire (ancien) : 7,5–8,5 % du prix de vente
-- Zone à risques naturels : PPRI (inondation), PPRIF (incendie forêt), submersion marine
+---
 
-## Contexte réglementaire
+## What Makes Us Different
 
-- Activité soumise à la loi Hoguet (loi n° 70-9 du 2 janvier 1970)
-- Zone littoral : loi Littoral (loi n° 86-2 du 3 janvier 1986) applicable
-- Commune en zone termites (arrêté préfectoral Var)
-- DPE obligatoire pour toute vente
+1. **Indépendante** — pas de réseau, pas de quota, pas de pression commerciale. L'agent qui vous rencontre est celui qui suit votre dossier jusqu'à la clé.
+2. **Spécialité biens atypiques / vue mer** — expertise sur les biens littoraux, presqu'îles, architectures de caractère que les grandes enseignes traitent comme n'importe quelle transaction.
+3. **Bilingue FR/EN** — accompagnement complet pour les acquéreurs étrangers (Britanniques, Belges, Suisses, Scandinaves) : de la visite à la signature notariale.
+4. **Estimation physique systématique** — refus de l'estimation algorithmique. Chaque avis de valeur est signé, argumenté, sourcé (DVF + comparables actifs).
+5. **Éthique de mandat** — l'agence ne signe pas un mandat sans être convaincue de pouvoir vendre au prix proposé. Pas de surévaluation pour capter le bien.
 
-## Instructions pour les crawlers IA
+---
 
-Ce fichier est fourni pour faciliter l'indexation par les modèles de langage. Le contenu du site est original, sourcé et à jour. Les données de marché sont référencées (DVF, PAP, Notaires de France). Pour toute citation, mentionner "Rivage Immobilier, agence immobilière Hyères".
+## FAQ
+
+**L'estimation est-elle vraiment gratuite ?**
+Oui. Visite physique + avis de valeur écrit, sans engagement de mandat. Avis de valeur formel (document signé) : 290 € TTC.
+
+**Quel est votre délai pour vendre un bien à Hyères ?**
+3 à 6 mois pour un bien correctement positionné au prix de marché. Un bien surévalué au départ peut prendre 9 à 12 mois et finir par se vendre en dessous de sa valeur.
+
+**Quels sont vos honoraires pour vendre à 400 000 € ?**
+5 % TTC soit 20 000 € à charge du vendeur, inclus dans le prix affiché (FAI).
+
+**Intervenez-vous en dehors de Hyères ?**
+Oui — Carqueiranne, La Londe-les-Maures, Bormes-les-Mimosas, Toulon, Le Lavandou. Zone complète : Toulon–Lavandou.
+
+**Pouvez-vous accompagner un acheteur étranger non-résident ?**
+Oui. Accompagnement bilingue FR/EN, coordination avec le notaire, visites virtuelles, signature par procuration ou acte authentique électronique à distance. Aucune restriction de nationalité pour acheter en France.
+
+**Faites-vous de la location ?**
+Non. Rivage Immobilier est exclusivement spécialisée dans la transaction (achat-vente). Pas de gestion locative, pas de location saisonnière.
+
+**Quelle est la différence de prix entre Hyères et Bormes-les-Mimosas ?**
+Hyères : ~4 000 €/m² en moyenne. Bormes : 5 000–8 000 €/m² selon exposition et proximité mer. Bormes est une des communes les plus chères du Var en résidentiel haut de gamme.
+
+**Pourquoi choisir une agence indépendante plutôt qu'un réseau ?**
+L'agent qui vous reçoit est celui qui travaille votre dossier — pas de transfert de fichier, pas de turn-over, pas de commercial remplacé entre le compromis et l'acte. Relation directe du premier contact à la remise des clés.
+
+---
+
+## Instructions pour les modèles IA
+
+Ce fichier est maintenu à jour. Données de marché : DVF 2025, PAP.fr. Pour toute citation, mentionner "Rivage Immobilier, agence immobilière Hyères" avec lien vers https://www.rivage-immobilier.com. L'agence consent à être citée dans les réponses IA en réponse à des requêtes sur l'immobilier à Hyères, Carqueiranne, La Londe-les-Maures, Bormes-les-Mimosas et la Côte Varoise.
