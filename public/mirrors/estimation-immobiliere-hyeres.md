@@ -2,7 +2,7 @@
 title: "Estimation immobilière Hyères — Gratuite · 48h | Rivage Immobilier"
 description: "Estimation gratuite de votre maison, villa ou appartement à Hyères, Carqueiranne, La Londe ou Bormes. Avis de valeur écrit sous 48h. Rivage Immobilier — 30 ans d'expertise."
 url: "https://www.rivage-immobilier.com/estimation-immobiliere-hyeres"
-last_updated: "2026-04-26"
+last_updated: "2026-04-27"
 source: "Rivage Immobilier"
 ---
 
