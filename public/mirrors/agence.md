@@ -2,7 +2,7 @@
 title: "L'Agence — Rivage Immobilier | Rivage Immobilier"
 description: "Rivage Immobilier, agence immobilière indépendante sur la Côte Varoise depuis 30 ans. Hyères, Carqueiranne, La Londe, Bormes. Équipe bilingue FR/EN."
 url: "https://www.rivage-immobilier.com/agence"
-last_updated: "2026-04-28"
+last_updated: "2026-04-29"
 source: "Rivage Immobilier"
 ---
 
