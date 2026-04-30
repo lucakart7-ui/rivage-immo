@@ -2,7 +2,7 @@
 title: "Immobilier à Bormes-les-Mimosas — Biens à vendre | Rivage Immobilier"
 description: "Maisons et villas à vendre à Bormes-les-Mimosas. Rivage Immobilier, agence indépendante sur la Côte Varoise."
 url: "https://www.rivage-immobilier.com/biens/bormes"
-last_updated: "2026-04-29"
+last_updated: "2026-04-30"
 source: "Rivage Immobilier"
 ---
 
