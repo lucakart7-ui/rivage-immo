@@ -2,7 +2,7 @@
 title: "FAQ – Acheter et vendre à Hyères | Rivage Immobilier"
 description: "20 réponses d'experts sur l'achat et la vente immobilière à Hyères et sur la Côte Varoise. Estimation, frais de notaire, fiscalité, achat depuis l'étranger."
 url: "https://www.rivage-immobilier.com/faq"
-last_updated: "2026-04-30"
+last_updated: "2026-05-01"
 source: "Rivage Immobilier"
 ---
 
