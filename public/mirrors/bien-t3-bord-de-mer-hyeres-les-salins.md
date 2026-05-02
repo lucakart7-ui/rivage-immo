@@ -2,7 +2,7 @@
 title: "T3 Bord de Mer - Hyères- Les Salins — Hyères | Rivage Immobilier"
 description: "Appartement à vendre à Hyères. 61 m², 350 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/t3-bord-de-mer-hyeres-les-salins"
-last_updated: "2026-05-01"
+last_updated: "2026-05-02"
 source: "Rivage Immobilier"
 ---
 

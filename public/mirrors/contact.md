@@ -2,7 +2,7 @@
 title: "Contact — Rivage Immobilier Hyères | Rivage Immobilier"
 description: "Contactez Rivage Immobilier à Hyères. Vente, achat, estimation — nous répondons sous 24h."
 url: "https://www.rivage-immobilier.com/contact"
-last_updated: "2026-05-01"
+last_updated: "2026-05-02"
 source: "Rivage Immobilier"
 ---
 

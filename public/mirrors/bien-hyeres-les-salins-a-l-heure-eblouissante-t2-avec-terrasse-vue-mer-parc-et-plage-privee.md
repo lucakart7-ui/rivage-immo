@@ -2,7 +2,7 @@
 title: "Hyères les Salins - À L'Heure éblouissante - T2 avec terrasse, vue mer, parc et plage privée  — Hyères | Rivage Immobilier"
 description: "Appartement à vendre à Hyères. 31 m², 315 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/hyeres-les-salins-a-l-heure-eblouissante-t2-avec-terrasse-vue-mer-parc-et-plage-privee"
-last_updated: "2026-05-01"
+last_updated: "2026-05-02"
 source: "Rivage Immobilier"
 ---
 
