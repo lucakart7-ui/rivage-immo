@@ -2,7 +2,7 @@
 title: "Maison  -Toulon - Mont Faron — Toulon | Rivage Immobilier"
 description: "Maison à vendre à Toulon. 115 m², 565 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/maison-mont-faron"
-last_updated: "2026-05-02"
+last_updated: "2026-05-03"
 source: "Rivage Immobilier"
 ---
 

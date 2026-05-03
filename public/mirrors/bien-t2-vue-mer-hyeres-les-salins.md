@@ -2,7 +2,7 @@
 title: "T2 Vue Mer - Hyères - Les Salins — Hyères | Rivage Immobilier"
 description: "Appartement à vendre à Hyères. 45 m², 348 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/t2-vue-mer-hyeres-les-salins"
-last_updated: "2026-05-02"
+last_updated: "2026-05-03"
 source: "Rivage Immobilier"
 ---
 
