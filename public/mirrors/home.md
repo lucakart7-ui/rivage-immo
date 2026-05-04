@@ -2,7 +2,7 @@
 title: "Agence Immobilière Hyères | Rivage Immobilier"
 description: "Votre expert en immobilier résidentiel à Hyères, Carqueiranne, La Londe et Bormes depuis 30 ans. Estimation gratuite, réponse sous 24h."
 url: "https://www.rivage-immobilier.com"
-last_updated: "2026-05-03"
+last_updated: "2026-05-04"
 source: "Rivage Immobilier"
 ---
 
@@ -61,18 +61,6 @@ Maison
 250 m²6 pièces
 
 1 190 000 €Voir→
-
-[Image : Maison -Toulon - Mont Faron]
-
-Toulon
-
-Maison
-
-### Maison -Toulon - Mont Faron
-
-115 m²4 pièces
-
-565 000 €Voir→
 
 [Image : Hyères les Salins - À L'Heure éblouissante - T2 avec terrasse, vue mer, parc et plage privée]
 

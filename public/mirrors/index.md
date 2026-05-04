@@ -1,6 +1,6 @@
 # Rivage Immobilier - Markdown Mirrors
 
-Generated: 2026-05-03
+Generated: 2026-05-04
 
 ## Pages disponibles
 

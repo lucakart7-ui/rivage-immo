@@ -2,7 +2,7 @@
 title: "T3 Rénové au bord de l'eau - Hyères les Salins — Hyères | Rivage Immobilier"
 description: "Appartement à vendre à Hyères. 51 m², 295 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/t3-renove-au-bord-de-l-eau-hyeres-les-salins"
-last_updated: "2026-05-03"
+last_updated: "2026-05-04"
 source: "Rivage Immobilier"
 ---
 
