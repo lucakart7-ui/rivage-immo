@@ -2,7 +2,7 @@
 title: "Immobilier à La Londe-les-Maures — Vente immobilière | Rivage Immobilier"
 description: "Biens immobiliers à vendre à La Londe-les-Maures. Rivage Immobilier, votre expert local depuis 30 ans."
 url: "https://www.rivage-immobilier.com/biens/la-londe"
-last_updated: "2026-05-04"
+last_updated: "2026-05-05"
 source: "Rivage Immobilier"
 ---
 

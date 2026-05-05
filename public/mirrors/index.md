@@ -1,6 +1,6 @@
 # Rivage Immobilier - Markdown Mirrors
 
-Generated: 2026-05-04
+Generated: 2026-05-05
 
 ## Pages disponibles
 
@@ -12,7 +12,6 @@ Generated: 2026-05-04
 - [https://www.rivage-immobilier.com/biens/bormes](https://www.rivage-immobilier.com/mirrors/biens-bormes.md)
 - [https://www.rivage-immobilier.com/biens/la-londe](https://www.rivage-immobilier.com/mirrors/biens-la-londe.md)
 - [https://www.rivage-immobilier.com/bien/t3-bord-de-mer-hyeres-les-salins](https://www.rivage-immobilier.com/mirrors/bien-t3-bord-de-mer-hyeres-les-salins.md)
-- [https://www.rivage-immobilier.com/bien/maison-mont-faron](https://www.rivage-immobilier.com/mirrors/bien-maison-mont-faron.md)
 - [https://www.rivage-immobilier.com/bien/t2-vue-mer-hyeres-les-salins](https://www.rivage-immobilier.com/mirrors/bien-t2-vue-mer-hyeres-les-salins.md)
 - [https://www.rivage-immobilier.com/bien/bastide-du-xviie-siecle-provence-verte](https://www.rivage-immobilier.com/mirrors/bien-bastide-du-xviie-siecle-provence-verte.md)
 - [https://www.rivage-immobilier.com/bien/hyeres-les-salins-a-l-heure-eblouissante-t2-avec-terrasse-vue-mer-parc-et-plage-privee](https://www.rivage-immobilier.com/mirrors/bien-hyeres-les-salins-a-l-heure-eblouissante-t2-avec-terrasse-vue-mer-parc-et-plage-privee.md)
