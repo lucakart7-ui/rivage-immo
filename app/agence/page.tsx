@@ -28,6 +28,106 @@ const valeurs = [
   },
 ]
 
+const chiffres = [
+  { valeur: '30+', label: "Années d'expérience" },
+  { valeur: '12', label: 'Communes couvertes' },
+  { valeur: 'FR / EN', label: 'Accompagnement bilingue' },
+  { valeur: '24h', label: 'Délai de réponse' },
+]
+
+const zones = [
+  {
+    nom: 'Hyères',
+    texte: "Cœur historique de notre activité. De La Capte aux Salins, de Costebelle à Giens — une connaissance micro-locale acquise sur 30 ans.",
+  },
+  {
+    nom: 'Carqueiranne',
+    texte: "Marché tendu, offre rare. Nous suivons les biens des criches des Bonnettes à la presqu'île, avec une lecture fine des transactions DVF.",
+  },
+  {
+    nom: 'La Londe-les-Maures',
+    texte: "Entre vignobles AOC et plages de calanques. Un positionnement intermédiaire que nous accompagnons pour les résidences principales et secondaires.",
+  },
+  {
+    nom: 'Bormes-les-Mimosas',
+    texte: "Village classé, façade maritime d'exception. Une clientèle internationale (FR, UK, BE, CH) que nous accompagnons en français et en anglais.",
+  },
+]
+
+const agenceJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'RealEstateAgent',
+  '@id': 'https://www.rivage-immobilier.com/agence#agency',
+  name: 'Rivage Immobilier',
+  legalName: 'Rivage Immobilier SARL',
+  description:
+    "Agence immobilière indépendante spécialisée dans l'immobilier résidentiel sur la Côte Varoise. Hyères, Carqueiranne, La Londe-les-Maures, Bormes-les-Mimosas. 30 ans d'expérience, accompagnement bilingue français-anglais.",
+  url: 'https://www.rivage-immobilier.com/agence',
+  telephone: '+33616363487',
+  email: 'luca.benattar@gmail.com',
+  foundingDate: '1995',
+  knowsLanguage: ['fr', 'en'],
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: '2311 Boulevard Front de Mer',
+    addressLocality: 'Hyères',
+    addressRegion: 'Var',
+    postalCode: '83400',
+    addressCountry: 'FR',
+  },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: 43.1207,
+    longitude: 6.1281,
+  },
+  areaServed: [
+    { '@type': 'City', name: 'Hyères' },
+    { '@type': 'City', name: 'Carqueiranne' },
+    { '@type': 'City', name: 'La Londe-les-Maures' },
+    { '@type': 'City', name: 'Bormes-les-Mimosas' },
+    { '@type': 'City', name: 'Toulon' },
+    { '@type': 'City', name: 'Le Lavandou' },
+  ],
+  employee: [
+    {
+      '@type': 'Person',
+      name: 'Nathalie Mazeau',
+      jobTitle: 'Gérante',
+      telephone: '+33611444187',
+    },
+    {
+      '@type': 'Person',
+      name: 'Sylvain Benattar',
+      jobTitle: 'Fondateur',
+    },
+    {
+      '@type': 'Person',
+      name: 'Luca Benattar',
+      jobTitle: 'Collaborateur',
+      telephone: '+33616363487',
+    },
+  ],
+}
+
+const breadcrumbJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Accueil',
+      item: 'https://www.rivage-immobilier.com',
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: "L'Agence",
+      item: 'https://www.rivage-immobilier.com/agence',
+    },
+  ],
+}
+
 export default async function AgencePage() {
   const equipe = await getEquipe().catch(() => [])
 
@@ -56,6 +156,16 @@ export default async function AgencePage() {
 
   return (
     <>
+      {/* Schema.org */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(agenceJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+
       {/* Hero */}
       <section className="relative overflow-hidden" style={{ minHeight: '55vh' }}>
         <Image
@@ -136,8 +246,110 @@ export default async function AgencePage() {
         </div>
       </section>
 
-      {/* Équipe */}
+      {/* Notre histoire */}
       <section className="px-6 py-20 sm:py-28" style={{ background: '#FAF8F5' }}>
+        <div className="max-w-3xl mx-auto">
+          <p
+            className="text-xs uppercase tracking-[0.2em] mb-4 text-center"
+            style={{ color: '#C9A96E', fontFamily: 'var(--font-jakarta)' }}
+          >
+            Notre histoire
+          </p>
+          <h2
+            className="text-4xl sm:text-5xl text-center mb-12"
+            style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: '#1A1A1A' }}
+          >
+            Trente ans à lire la Côte Varoise
+          </h2>
+          <div className="space-y-5">
+            <p
+              className="text-base leading-[1.9]"
+              style={{ color: '#4A4845', fontFamily: 'var(--font-jakarta)' }}
+            >
+              Rivage Immobilier a été fondée à Hyères en 1995 par Sylvain Benattar, après plus de quinze ans passés dans la promotion immobilière sur la Côte d'Azur. L'idée fondatrice : ouvrir une agence à taille humaine, indépendante de tout réseau, capable d'accompagner chaque vendeur et chaque acquéreur sur la durée — sans la pression commerciale des structures franchisées.
+            </p>
+            <p
+              className="text-base leading-[1.9]"
+              style={{ color: '#4A4845', fontFamily: 'var(--font-jakarta)' }}
+            >
+              Trente ans plus tard, l'agence est dirigée par Nathalie Mazeau et reste fidèle à cet ADN : un portefeuille volontairement restreint, une présence physique au 2311 Boulevard Front de Mer à Hyères, et une lecture fine du marché local construite mandat après mandat. Notre conviction : sur un territoire aussi contrasté que la Côte Varoise, où les écarts de prix peuvent atteindre 50 % à surface égale entre deux quartiers d'une même commune, une estimation juste suppose une connaissance terrain qu'aucun algorithme ne peut remplacer.
+            </p>
+            <p
+              className="text-base leading-[1.9]"
+              style={{ color: '#4A4845', fontFamily: 'var(--font-jakarta)' }}
+            >
+              Depuis 2024, Luca Benattar a rejoint l'équipe après quatre ans chez LaSalle Investment Management à Paris. Sa formation EDHEC et son expérience en analyse de valeur viennent compléter notre approche, notamment sur les projets complexes : montages, divisions, biens à fort potentiel, accompagnement de clientèle internationale. L'agence est entièrement bilingue français-anglais.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Chiffres clés */}
+      <section className="px-6 py-16" style={{ background: 'white', borderTop: '1px solid rgba(201,169,110,0.12)', borderBottom: '1px solid rgba(201,169,110,0.12)' }}>
+        <div className="max-w-5xl mx-auto grid grid-cols-2 sm:grid-cols-4 gap-8 text-center">
+          {chiffres.map((c) => (
+            <div key={c.label}>
+              <p
+                className="text-4xl sm:text-5xl mb-2"
+                style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: '#1B3A6B' }}
+              >
+                {c.valeur}
+              </p>
+              <p
+                className="text-xs uppercase tracking-wider"
+                style={{ color: '#9A9590', fontFamily: 'var(--font-jakarta)', letterSpacing: '0.12em' }}
+              >
+                {c.label}
+              </p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Zones d'intervention */}
+      <section className="px-6 py-20 sm:py-28" style={{ background: '#FAF8F5' }}>
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-16">
+            <p
+              className="text-xs uppercase tracking-[0.2em] mb-4"
+              style={{ color: '#C9A96E', fontFamily: 'var(--font-jakarta)' }}
+            >
+              Notre territoire
+            </p>
+            <h2
+              className="text-4xl sm:text-5xl"
+              style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: '#1A1A1A' }}
+            >
+              Quatre communes,<br />une expertise commune
+            </h2>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+            {zones.map((z) => (
+              <div
+                key={z.nom}
+                className="p-7 rounded-2xl"
+                style={{ background: 'white', border: '1px solid rgba(201,169,110,0.15)' }}
+              >
+                <h3
+                  className="text-2xl mb-3"
+                  style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: '#1B3A6B' }}
+                >
+                  {z.nom}
+                </h3>
+                <p
+                  className="text-sm leading-relaxed"
+                  style={{ color: '#4A4845', fontFamily: 'var(--font-jakarta)' }}
+                >
+                  {z.texte}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Équipe */}
+      <section className="px-6 py-20 sm:py-28" style={{ background: 'white' }}>
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-16">
             <p

@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   title: 'Biens à vendre — Côte Varoise',
   description:
     'Maisons, villas et appartements à vendre à Hyères, Carqueiranne, La Londe-les-Maures et Bormes-les-Mimosas. Rivage Immobilier.',
+  alternates: { canonical: 'https://www.rivage-immobilier.com/biens' },
 }
 
 export const revalidate = 3600
