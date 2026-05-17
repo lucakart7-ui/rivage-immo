@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
     `${bien.type.charAt(0).toUpperCase() + bien.type.slice(1)} à vendre à ${communeLabel(bien.commune)}. ${bien.surface} m², ${bien.prix.toLocaleString('fr-FR')} €. Rivage Immobilier.`
 
   const photoUrl =
-    bien.photos?.[0] ? urlFor(bien.photos[0]).width(1200).height(630).url() : undefined
+    bien.photos?.[0]?.asset ? urlFor(bien.photos[0]).width(1200).height(630).url() : undefined
 
   return {
     title,
@@ -68,10 +68,12 @@ export default async function BienPage({ params }: { params: Params }) {
 
   if (!bien) notFound()
 
-  const photos = (bien.photos || []).map((p: any) => ({
-    url: urlFor(p).width(1600).auto('format').url(),
-    alt: p.alt || bien.title,
-  }))
+  const photos = (bien.photos || [])
+    .filter((p: any) => p?.asset)
+    .map((p: any) => ({
+      url: urlFor(p).width(1600).auto('format').url(),
+      alt: p.alt || bien.title,
+    }))
   const mainPhoto = photos[0]?.url || null
 
   const jsonLd = {
