@@ -2,7 +2,7 @@
 title: "Coup de Cœur - Villa Rénovée -  Font Brun Carqueiranne — Carqueiranne | Rivage Immobilier"
 description: "Villa à vendre à Carqueiranne. 199 m², 25 000 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/coup-de-coeur-villa-renovee-font-brun-carqueiranne"
-last_updated: "2026-05-23"
+last_updated: "2026-05-24"
 source: "Rivage Immobilier"
 ---
 

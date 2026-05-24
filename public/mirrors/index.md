@@ -1,6 +1,6 @@
 # Rivage Immobilier - Markdown Mirrors
 
-Generated: 2026-05-23
+Generated: 2026-05-24
 
 ## Pages disponibles
 
@@ -19,6 +19,7 @@ Generated: 2026-05-23
 - [https://www.rivage-immobilier.com/bien/bastide-du-xviie-siecle-provence-verte](https://www.rivage-immobilier.com/mirrors/bien-bastide-du-xviie-siecle-provence-verte.md)
 - [https://www.rivage-immobilier.com/bien/hyeres-les-salins-a-l-heure-eblouissante-t2-avec-terrasse-vue-mer-parc-et-plage-privee](https://www.rivage-immobilier.com/mirrors/bien-hyeres-les-salins-a-l-heure-eblouissante-t2-avec-terrasse-vue-mer-parc-et-plage-privee.md)
 - [https://www.rivage-immobilier.com/bien/t3-renove-au-bord-de-l-eau-hyeres-les-salins](https://www.rivage-immobilier.com/mirrors/bien-t3-renove-au-bord-de-l-eau-hyeres-les-salins.md)
+- [https://www.rivage-immobilier.com/bien/maison-de-plain-pied-a-deux-pas-de-la-plage-hyeres-les-salins](https://www.rivage-immobilier.com/mirrors/bien-maison-de-plain-pied-a-deux-pas-de-la-plage-hyeres-les-salins.md)
 - [https://www.rivage-immobilier.com/honoraires](https://www.rivage-immobilier.com/mirrors/honoraires.md)
 - [https://www.rivage-immobilier.com/agence](https://www.rivage-immobilier.com/mirrors/agence.md)
 - [https://www.rivage-immobilier.com/contact](https://www.rivage-immobilier.com/mirrors/contact.md)
