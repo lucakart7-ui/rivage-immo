@@ -2,7 +2,7 @@
 title: "Immobilier à Hyères — Maisons et villas à vendre | Rivage Immobilier"
 description: "Découvrez nos biens à vendre à Hyères : maisons, villas, appartements. Rivage Immobilier, votre agence locale depuis 30 ans."
 url: "https://www.rivage-immobilier.com/biens/hyeres"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 source: "Rivage Immobilier"
 ---
 
@@ -68,18 +68,6 @@ Maison
 
 449 000 €Voir→
 
-[Image : T2 Vue Mer - Hyères - Les Salins]
-
-Hyères
-
-Appartement
-
-### T2 Vue Mer - Hyères - Les Salins
-
-45 m²2 pièces
-
-348 000 €Voir→
-
 [Image : T3 Rénové au bord de l'eau - Hyères les Salins]
 
 Hyères
@@ -103,6 +91,20 @@ Maison
 159 m²6 pièces
 
 948 000 €Voir→
+
+[Image : Studio 21m² Plage Privée]
+
+Hyères
+
+Exclusivité
+
+Appartement
+
+### Studio 21m² Plage Privée
+
+21 m²1 pièces
+
+137 000 €Voir→
 
 Marché immobilier
 

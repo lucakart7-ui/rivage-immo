@@ -2,7 +2,7 @@
 title: "Immobilier à Carqueiranne — Biens à vendre | Rivage Immobilier"
 description: "Maisons et villas à vendre à Carqueiranne. Rivage Immobilier, spécialiste de l'immobilier sur la Côte Varoise."
 url: "https://www.rivage-immobilier.com/biens/carqueiranne"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 source: "Rivage Immobilier"
 ---
 
@@ -26,7 +26,7 @@ Villa
 
 199 m²5 pièces
 
-25 000 000 €Voir→
+2 500 000 €Voir→
 
 Marché immobilier
 

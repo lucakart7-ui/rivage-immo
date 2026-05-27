@@ -2,7 +2,7 @@
 title: "Agence Immobilière Hyères | Rivage Immobilier"
 description: "Votre expert en immobilier résidentiel à Hyères, Carqueiranne, La Londe et Bormes depuis 30 ans. Estimation gratuite, réponse sous 24h."
 url: "https://www.rivage-immobilier.com"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 source: "Rivage Immobilier"
 ---
 
@@ -76,6 +76,18 @@ Maison
 
 1 190 000 €Voir→
 
+[Image : Coup de Cœur - Villa Rénovée - Font Brun Carqueiranne]
+
+Carqueiranne
+
+Villa
+
+### Coup de Cœur - Villa Rénovée - Font Brun Carqueiranne
+
+199 m²5 pièces
+
+2 500 000 €Voir→
+
 [Image : Hyères les Salins - À L'Heure éblouissante - T2 avec terrasse, vue mer, parc et plage privée]
 
 Hyères
@@ -99,18 +111,6 @@ Maison
 105 m²5 pièces
 
 449 000 €Voir→
-
-[Image : T2 Vue Mer - Hyères - Les Salins]
-
-Hyères
-
-Appartement
-
-### T2 Vue Mer - Hyères - Les Salins
-
-45 m²2 pièces
-
-348 000 €Voir→
 
 Vous ne trouvez pas ce que vous cherchez ?
 
