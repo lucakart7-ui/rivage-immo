@@ -1,6 +1,6 @@
 # Rivage Immobilier - Markdown Mirrors
 
-Generated: 2026-05-27
+Generated: 2026-05-28
 
 ## Pages disponibles
 
@@ -11,6 +11,7 @@ Generated: 2026-05-27
 - [https://www.rivage-immobilier.com/biens/carqueiranne](https://www.rivage-immobilier.com/mirrors/biens-carqueiranne.md)
 - [https://www.rivage-immobilier.com/biens/bormes](https://www.rivage-immobilier.com/mirrors/biens-bormes.md)
 - [https://www.rivage-immobilier.com/biens/la-londe](https://www.rivage-immobilier.com/mirrors/biens-la-londe.md)
+- [https://www.rivage-immobilier.com/bien/studio-21m-plage-privee](https://www.rivage-immobilier.com/mirrors/bien-studio-21m-plage-privee.md)
 - [https://www.rivage-immobilier.com/bien/villa-les-chalutiers](https://www.rivage-immobilier.com/mirrors/bien-villa-les-chalutiers.md)
 - [https://www.rivage-immobilier.com/bien/maison-3-chambres-hyeres-les-salins](https://www.rivage-immobilier.com/mirrors/bien-maison-3-chambres-hyeres-les-salins.md)
 - [https://www.rivage-immobilier.com/bien/coup-de-coeur-villa-renovee-font-brun-carqueiranne](https://www.rivage-immobilier.com/mirrors/bien-coup-de-coeur-villa-renovee-font-brun-carqueiranne.md)
