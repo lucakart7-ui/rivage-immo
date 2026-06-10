@@ -2,7 +2,7 @@
 title: "Maison de plain pied à deux pas de la plage - Hyères Les Salins — Hyères | Rivage Immobilier"
 description: "Maison à vendre à Hyères. 159 m², 948 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/maison-de-plain-pied-a-deux-pas-de-la-plage-hyeres-les-salins"
-last_updated: "2026-06-09"
+last_updated: "2026-06-10"
 source: "Rivage Immobilier"
 ---
 
