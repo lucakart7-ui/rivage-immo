@@ -2,7 +2,7 @@
 title: "Maison 3 Chambres Hyères Les Salins — Hyères | Rivage Immobilier"
 description: "Maison à vendre à Hyères. 105 m², 449 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/maison-3-chambres-hyeres-les-salins"
-last_updated: "2026-06-15"
+last_updated: "2026-06-16"
 source: "Rivage Immobilier"
 ---
 
