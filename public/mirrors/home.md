@@ -2,7 +2,7 @@
 title: "Agence Immobilière Hyères | Rivage Immobilier"
 description: "Votre expert en immobilier résidentiel à Hyères, Carqueiranne, La Londe et Bormes depuis 30 ans. Estimation gratuite, réponse sous 24h."
 url: "https://www.rivage-immobilier.com"
-last_updated: "2026-06-16"
+last_updated: "2026-06-17"
 source: "Rivage Immobilier"
 ---
 
@@ -34,20 +34,6 @@ Sélection
 
 Tous les biens →
 
-[Image : Villa Les Chalutiers]
-
-Hyères
-
-Exclusivité
-
-Villa
-
-### Villa Les Chalutiers
-
-112 m²8 pièces
-
-755 000 €Voir→
-
 [Image : T3 Bord de Mer - Hyères- Les Salins]
 
 Hyères
@@ -75,6 +61,20 @@ Maison
 250 m²6 pièces
 
 1 190 000 €Voir→
+
+[Image : Villa Les Chalutiers]
+
+Hyères
+
+Exclusivité
+
+Villa
+
+### Villa Les Chalutiers
+
+112 m²8 pièces
+
+755 000 €Voir→
 
 [Image : Coup de Cœur - Villa Rénovée - Font Brun Carqueiranne]
 
