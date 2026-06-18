@@ -2,7 +2,7 @@
 title: "Immobilier à Hyères — Maisons et villas à vendre | Rivage Immobilier"
 description: "Découvrez nos biens à vendre à Hyères : maisons, villas, appartements. Rivage Immobilier, votre agence locale depuis 30 ans."
 url: "https://www.rivage-immobilier.com/biens/hyeres"
-last_updated: "2026-06-17"
+last_updated: "2026-06-18"
 source: "Rivage Immobilier"
 ---
 
@@ -15,20 +15,6 @@ Capitale de la presqu'île d'Or, Hyères allie plages, pinèdes et architecture 
 ToutesHyèresCarqueiranneLa Londe-les-MauresBormes-les-MimosasToulonLe PradetLa ValetteLe LavandouLa CrauLa GardeSolliès-PontVar
 
 7 biens disponibles à Hyères
-
-[Image : Villa Les Chalutiers]
-
-Hyères
-
-Exclusivité
-
-Villa
-
-### Villa Les Chalutiers
-
-112 m²8 pièces
-
-755 000 €Voir→
 
 [Image : T3 Bord de Mer - Hyères- Les Salins]
 
@@ -43,6 +29,20 @@ Appartement
 61 m²3 pièces
 
 350 000 €Voir→
+
+[Image : Villa Les Chalutiers]
+
+Hyères
+
+Exclusivité
+
+Villa
+
+### Villa Les Chalutiers
+
+112 m²8 pièces
+
+755 000 €Voir→
 
 [Image : Hyères les Salins - À L'Heure éblouissante - T2 avec terrasse, vue mer, parc et plage privée]
 
@@ -68,6 +68,18 @@ Maison
 
 449 000 €Voir→
 
+[Image : Coup de Cœur - T2 clés en main sur le port de Hyères]
+
+Hyères
+
+Appartement
+
+### Coup de Cœur - T2 clés en main sur le port de Hyères
+
+33 m²2 pièces
+
+229 000 €Voir→
+
 [Image : T3 Rénové au bord de l'eau - Hyères les Salins]
 
 Hyères
@@ -79,18 +91,6 @@ Appartement
 51 m²3 pièces
 
 295 000 €Voir→
-
-[Image : Maison de plain pied à deux pas de la plage - Hyères Les Salins]
-
-Hyères
-
-Maison
-
-### Maison de plain pied à deux pas de la plage - Hyères Les Salins
-
-159 m²6 pièces
-
-948 000 €Voir→
 
 [Image : Studio 21m² Plage Privée]
 
