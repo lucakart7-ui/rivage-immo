@@ -2,7 +2,7 @@
 title: "Agence Immobilière Hyères | Rivage Immobilier"
 description: "Votre expert en immobilier résidentiel à Hyères, Carqueiranne, La Londe et Bormes depuis 30 ans. Estimation gratuite, réponse sous 24h."
 url: "https://www.rivage-immobilier.com"
-last_updated: "2026-06-27"
+last_updated: "2026-06-28"
 source: "Rivage Immobilier"
 ---
 
@@ -100,17 +100,17 @@ Appartement
 
 315 000 €Voir→
 
-[Image : Maison 3 Chambres Hyères Les Salins]
+[Image : Maison de plain pied à deux pas de la plage]
 
 Hyères
 
 Maison
 
-### Maison 3 Chambres Hyères Les Salins
+### Maison de plain pied à deux pas de la plage
 
-105 m²5 pièces
+150 m²6 pièces
 
-449 000 €Voir→
+899 000 €Voir→
 
 Vous ne trouvez pas ce que vous cherchez ?
 
