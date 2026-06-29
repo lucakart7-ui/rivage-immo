@@ -2,7 +2,7 @@
 title: "Villa Les Chalutiers — Hyères | Rivage Immobilier"
 description: "Villa à vendre à Hyères. 112 m², 755 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/villa-les-chalutiers"
-last_updated: "2026-06-28"
+last_updated: "2026-06-29"
 source: "Rivage Immobilier"
 ---
 
