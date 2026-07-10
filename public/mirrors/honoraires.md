@@ -2,7 +2,7 @@
 title: "Nos Honoraires — Rivage Immobilier | Rivage Immobilier"
 description: "Grille tarifaire des honoraires de transaction de Rivage Immobilier sur la Côte Varoise. Honoraires à charge vendeur, TVA 20%."
 url: "https://www.rivage-immobilier.com/honoraires"
-last_updated: "2026-07-09"
+last_updated: "2026-07-10"
 source: "Rivage Immobilier"
 ---
 
