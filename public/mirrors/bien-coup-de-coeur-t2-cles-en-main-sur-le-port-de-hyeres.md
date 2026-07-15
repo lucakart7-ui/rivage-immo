@@ -2,7 +2,7 @@
 title: "Coup de Cœur - T2 clés en main sur le port de Hyères — Hyères | Rivage Immobilier"
 description: "Appartement à vendre à Hyères. 33 m², 210 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/coup-de-coeur-t2-cles-en-main-sur-le-port-de-hyeres"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 source: "Rivage Immobilier"
 ---
 
