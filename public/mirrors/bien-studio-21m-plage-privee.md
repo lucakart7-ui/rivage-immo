@@ -2,7 +2,7 @@
 title: "Studio 21m² Plage Privée — Hyères | Rivage Immobilier"
 description: "Appartement à vendre à Hyères. 21 m², 137 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/studio-21m-plage-privee"
-last_updated: "2026-07-18"
+last_updated: "2026-07-19"
 source: "Rivage Immobilier"
 ---
 
