@@ -27,11 +27,11 @@ export function Footer() {
               <div>
                 <p className="text-xs" style={{ color: 'rgba(232,213,176,0.5)', fontFamily: 'var(--font-jakarta)' }}>Nathalie Mazeau</p>
                 <a
-                  href="tel:+33611444187"
+                  href="tel:+33611444186"
                   className="block text-base font-semibold transition-colors"
                   style={{ color: '#C9A96E', fontFamily: 'var(--font-cormorant)' }}
                 >
-                  06 11 44 41 87
+                  06 11 44 41 86
                 </a>
                 <a
                   href="mailto:mazeau.nathalie16@gmail.com"
