@@ -14,47 +14,7 @@ Capitale de la presqu'île d'Or, Hyères allie plages, pinèdes et architecture 
 
 ToutesHyèresCarqueiranneLa Londe-les-MauresBormes-les-MimosasToulonLe PradetLa ValetteLe LavandouLa CrauLa GardeSolliès-PontVar
 
-7 biens disponibles à Hyères
-
-[Image : T3 Bord de Mer - Hyères- Les Salins]
-
-Hyères
-
-Exclusivité
-
-Appartement
-
-### T3 Bord de Mer - Hyères- Les Salins
-
-61 m²3 pièces
-
-350 000 €Voir→
-
-[Image : Villa Les Chalutiers]
-
-Hyères
-
-Exclusivité
-
-Villa
-
-### Villa Les Chalutiers
-
-112 m²8 pièces
-
-755 000 €Voir→
-
-[Image : Hyères les Salins - À L'Heure éblouissante - T2 avec terrasse, vue mer, parc et plage privée]
-
-Hyères
-
-Appartement
-
-### Hyères les Salins - À L'Heure éblouissante - T2 avec terrasse, vue mer, parc et plage privée
-
-31 m²2 pièces
-
-315 000 €Voir→
+4 biens disponibles à Hyères
 
 [Image : Maison de plain pied à deux pas de la plage]
 
@@ -68,6 +28,20 @@ Maison
 
 899 000 €Voir→
 
+[Image : T2 aux Salins - Le pied à terre idéal à deux pas des plages !]
+
+Hyères
+
+Exclusivité
+
+Appartement
+
+### T2 aux Salins - Le pied à terre idéal à deux pas des plages !
+
+30 m²2 pièces
+
+184 000 €Voir→
+
 [Image : Coup de Cœur - T2 clés en main sur le port de Hyères]
 
 Hyères
@@ -79,18 +53,6 @@ Appartement
 33 m²2 pièces
 
 210 000 €Voir→
-
-[Image : T3 Rénové au bord de l'eau - Hyères les Salins]
-
-Hyères
-
-Appartement
-
-### T3 Rénové au bord de l'eau - Hyères les Salins
-
-51 m²3 pièces
-
-295 000 €Voir→
 
 [Image : Studio 21m² Plage Privée]
 
