@@ -46,11 +46,11 @@ export default function ContactPage() {
                 <div>
                   <p className="text-xs mb-0.5" style={{ color: '#9A9590', fontFamily: 'var(--font-jakarta)' }}>Nathalie Mazeau</p>
                   <a
-                    href="tel:+33611444187"
+                    href="tel:+33611444186"
                     className="text-2xl block"
                     style={{ fontFamily: 'var(--font-cormorant)', fontStyle: 'italic', color: '#1B3A6B' }}
                   >
-                    06 11 44 41 87
+                    06 11 44 41 86
                   </a>
                   <a
                     href="mailto:mazeau.nathalie16@gmail.com"
