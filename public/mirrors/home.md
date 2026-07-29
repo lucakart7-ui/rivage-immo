@@ -34,20 +34,6 @@ Sélection
 
 Tous les biens →
 
-[Image : T3 Bord de Mer - Hyères- Les Salins]
-
-Hyères
-
-Exclusivité
-
-Appartement
-
-### T3 Bord de Mer - Hyères- Les Salins
-
-61 m²3 pièces
-
-350 000 €Voir→
-
 [Image : Bastide du XVIIe siècle - Provence Verte]
 
 Var
@@ -62,19 +48,19 @@ Maison
 
 1 190 000 €Voir→
 
-[Image : Villa Les Chalutiers]
+[Image : T3 Port de Carqueiranne]
 
-Hyères
+Carqueiranne
 
 Exclusivité
 
-Villa
+Appartement
 
-### Villa Les Chalutiers
+### T3 Port de Carqueiranne
 
-112 m²8 pièces
+54 m²3 pièces
 
-755 000 €Voir→
+268 000 €Voir→
 
 [Image : Coup de Cœur - Villa Rénovée - Font Brun Carqueiranne]
 
@@ -88,18 +74,6 @@ Villa
 
 2 500 000 €Voir→
 
-[Image : Hyères les Salins - À L'Heure éblouissante - T2 avec terrasse, vue mer, parc et plage privée]
-
-Hyères
-
-Appartement
-
-### Hyères les Salins - À L'Heure éblouissante - T2 avec terrasse, vue mer, parc et plage privée
-
-31 m²2 pièces
-
-315 000 €Voir→
-
 [Image : Maison de plain pied à deux pas de la plage]
 
 Hyères
@@ -111,6 +85,32 @@ Maison
 150 m²6 pièces
 
 899 000 €Voir→
+
+[Image : T2 aux Salins - Le pied à terre idéal à deux pas des plages !]
+
+Hyères
+
+Exclusivité
+
+Appartement
+
+### T2 aux Salins - Le pied à terre idéal à deux pas des plages !
+
+30 m²2 pièces
+
+184 000 €Voir→
+
+[Image : Coup de Cœur - T2 clés en main sur le port de Hyères]
+
+Hyères
+
+Appartement
+
+### Coup de Cœur - T2 clés en main sur le port de Hyères
+
+33 m²2 pièces
+
+210 000 €Voir→
 
 Vous ne trouvez pas ce que vous cherchez ?
 
