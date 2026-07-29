@@ -16,7 +16,7 @@ Contacts
 
 Nathalie Mazeau
 
-06 11 44 41 87mazeau.nathalie16@gmail.com
+06 11 44 41 86mazeau.nathalie16@gmail.com
 
 Luca Benattar
 
