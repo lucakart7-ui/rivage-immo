@@ -2,7 +2,7 @@
 title: "T3 Port de Carqueiranne — Carqueiranne | Rivage Immobilier"
 description: "Appartement à vendre à Carqueiranne. 54 m², 268 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/t3-port-de-carqueiranne"
-last_updated: "2026-08-07"
+last_updated: "2026-08-08"
 source: "Rivage Immobilier"
 ---
 
