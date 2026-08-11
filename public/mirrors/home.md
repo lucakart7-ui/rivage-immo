@@ -2,7 +2,7 @@
 title: "Agence Immobilière Hyères | Rivage Immobilier"
 description: "Votre expert en immobilier résidentiel à Hyères, Carqueiranne, La Londe et Bormes depuis 30 ans. Estimation gratuite, réponse sous 24h."
 url: "https://www.rivage-immobilier.com"
-last_updated: "2026-08-10"
+last_updated: "2026-08-11"
 source: "Rivage Immobilier"
 ---
 
@@ -62,6 +62,18 @@ Appartement
 
 268 000 €Voir→
 
+[Image : Appartement T3 de 80 m² avec terrasse, garage et parking - Port de Hyères]
+
+Hyères
+
+Appartement
+
+### Appartement T3 de 80 m² avec terrasse, garage et parking - Port de Hyères
+
+80 m²4 pièces
+
+665 000 €Voir→
+
 [Image : Coup de Cœur - Villa Rénovée - Font Brun Carqueiranne]
 
 Carqueiranne
@@ -99,18 +111,6 @@ Appartement
 30 m²2 pièces
 
 184 000 €Voir→
-
-[Image : Coup de Cœur - T2 clés en main sur le port de Hyères]
-
-Hyères
-
-Appartement
-
-### Coup de Cœur - T2 clés en main sur le port de Hyères
-
-33 m²2 pièces
-
-210 000 €Voir→
 
 Vous ne trouvez pas ce que vous cherchez ?
 
