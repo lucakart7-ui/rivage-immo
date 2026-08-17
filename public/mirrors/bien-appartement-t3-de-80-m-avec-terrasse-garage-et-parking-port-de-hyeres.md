@@ -2,7 +2,7 @@
 title: "Appartement T3 de 80 m² avec terrasse, garage et parking - Port de Hyères — Hyères | Rivage Immobilier"
 description: "Appartement à vendre à Hyères. 80 m², 665 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/appartement-t3-de-80-m-avec-terrasse-garage-et-parking-port-de-hyeres"
-last_updated: "2026-08-16"
+last_updated: "2026-08-17"
 source: "Rivage Immobilier"
 ---
 
