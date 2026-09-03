@@ -2,7 +2,7 @@
 title: "T2 aux Salins - Le pied à terre idéal à deux pas des plages ! — Hyères | Rivage Immobilier"
 description: "Appartement à vendre à Hyères. 30 m², 184 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/t2-aux-salins-le-pied-a-terre-ideal-a-deux-pas-des-plages"
-last_updated: "2026-09-02"
+last_updated: "2026-09-03"
 source: "Rivage Immobilier"
 ---
 
