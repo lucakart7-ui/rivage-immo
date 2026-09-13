@@ -2,7 +2,7 @@
 title: "Agence Immobilière Hyères | Rivage Immobilier"
 description: "Votre expert en immobilier résidentiel à Hyères, Carqueiranne, La Londe et Bormes depuis 30 ans. Estimation gratuite, réponse sous 24h."
 url: "https://www.rivage-immobilier.com"
-last_updated: "2026-09-12"
+last_updated: "2026-09-13"
 source: "Rivage Immobilier"
 ---
 
@@ -33,6 +33,18 @@ Sélection
 ## À vendre
 
 Tous les biens →
+
+[Image : T2 Hyères Port - Expo sud avec balcon, refait à neuf & parking !]
+
+Hyères
+
+Appartement
+
+### T2 Hyères Port - Expo sud avec balcon, refait à neuf & parking !
+
+47 m²2 pièces
+
+284 000 €Voir→
 
 [Image : Bastide du XVIIe siècle - Provence Verte]
 
@@ -97,20 +109,6 @@ Maison
 150 m²6 pièces
 
 899 000 €Voir→
-
-[Image : T2 aux Salins - Le pied à terre idéal à deux pas des plages !]
-
-Hyères
-
-Exclusivité
-
-Appartement
-
-### T2 aux Salins - Le pied à terre idéal à deux pas des plages !
-
-30 m²2 pièces
-
-184 000 €Voir→
 
 Vous ne trouvez pas ce que vous cherchez ?
 
