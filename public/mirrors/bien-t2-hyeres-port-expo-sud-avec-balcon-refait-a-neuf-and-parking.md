@@ -2,7 +2,7 @@
 title: "T2 Hyères Port -  Expo sud avec balcon, refait à neuf & parking ! — Hyères | Rivage Immobilier"
 description: "Appartement à vendre à Hyères. 47 m², 284 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/t2-hyeres-port-expo-sud-avec-balcon-refait-a-neuf-and-parking"
-last_updated: "2026-09-22"
+last_updated: "2026-09-23"
 source: "Rivage Immobilier"
 ---
 
