@@ -2,7 +2,7 @@
 title: "Agence Immobilière Hyères | Rivage Immobilier"
 description: "Votre expert en immobilier résidentiel à Hyères, Carqueiranne, La Londe et Bormes depuis 30 ans. Estimation gratuite, réponse sous 24h."
 url: "https://www.rivage-immobilier.com"
-last_updated: "2026-10-15"
+last_updated: "2026-10-16"
 source: "Rivage Immobilier"
 ---
 
@@ -58,7 +58,7 @@ Maison
 
 250 m²6 pièces
 
-1 190 000 €Voir→
+990 000 €Voir→
 
 [Image : T3 Port de Carqueiranne]
 

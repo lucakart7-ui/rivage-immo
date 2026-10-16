@@ -1,8 +1,8 @@
 ---
 title: "Bastide du XVIIe siècle - Provence Verte — Var | Rivage Immobilier"
-description: "Maison à vendre à Var. 250 m², 1 190 000 €. Rivage Immobilier."
+description: "Maison à vendre à Var. 250 m², 990 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/bastide-du-xviie-siecle-provence-verte"
-last_updated: "2026-10-15"
+last_updated: "2026-10-16"
 source: "Rivage Immobilier"
 ---
 
@@ -18,7 +18,7 @@ VarMaisonExclusivité
 
 # Bastide du XVIIe siècle - Provence Verte
 
-1 190 000 €
+990 000 €
 
 250 m²
 
