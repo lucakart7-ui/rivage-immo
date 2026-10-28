@@ -2,7 +2,7 @@
 title: "Agence Immobilière Hyères | Rivage Immobilier"
 description: "Votre expert en immobilier résidentiel à Hyères, Carqueiranne, La Londe et Bormes depuis 30 ans. Estimation gratuite, réponse sous 24h."
 url: "https://www.rivage-immobilier.com"
-last_updated: "2026-10-27"
+last_updated: "2026-10-28"
 source: "Rivage Immobilier"
 ---
 
@@ -46,6 +46,20 @@ Appartement
 
 284 000 €Voir→
 
+[Image : Exclusivité - Le Loft - 500m² - Hyères centre]
+
+Hyères
+
+Exclusivité
+
+Maison
+
+### Exclusivité - Le Loft - 500m² - Hyères centre
+
+501 m²8 pièces
+
+1 249 000 €Voir→
+
 [Image : Bastide du XVIIe siècle - Provence Verte]
 
 Var
@@ -60,19 +74,17 @@ Maison
 
 990 000 €Voir→
 
-[Image : T3 Port de Carqueiranne]
+[Image : T2 Hyères Port - Expo sud avec balcon, refait à neuf & parking !]
 
-Carqueiranne
-
-Exclusivité
+Hyères
 
 Appartement
 
-### T3 Port de Carqueiranne
+### T2 Hyères Port - Expo sud avec balcon, refait à neuf & parking !
 
-54 m²3 pièces
+47 m²2 pièces
 
-268 000 €Voir→
+284 000 €Voir→
 
 [Image : Appartement T3 de 80 m² avec terrasse, garage et parking - Port de Hyères]
 
@@ -97,18 +109,6 @@ Villa
 199 m²5 pièces
 
 2 500 000 €Voir→
-
-[Image : Maison de plain pied à deux pas de la plage]
-
-Hyères
-
-Maison
-
-### Maison de plain pied à deux pas de la plage
-
-150 m²6 pièces
-
-899 000 €Voir→
 
 Vous ne trouvez pas ce que vous cherchez ?
 

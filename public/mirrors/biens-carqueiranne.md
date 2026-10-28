@@ -2,7 +2,7 @@
 title: "Immobilier à Carqueiranne — Biens à vendre | Rivage Immobilier"
 description: "Maisons et villas à vendre à Carqueiranne. Rivage Immobilier, spécialiste de l'immobilier sur la Côte Varoise."
 url: "https://www.rivage-immobilier.com/biens/carqueiranne"
-last_updated: "2026-10-27"
+last_updated: "2026-10-28"
 source: "Rivage Immobilier"
 ---
 
@@ -14,21 +14,7 @@ Village côtier préservé entre mer et collines, prisé pour sa tranquillité e
 
 ToutesHyèresCarqueiranneLa Londe-les-MauresBormes-les-MimosasToulonLe PradetLa ValetteLe LavandouLa CrauLa GardeSolliès-PontVar
 
-2 biens disponibles à Carqueiranne
-
-[Image : T3 Port de Carqueiranne]
-
-Carqueiranne
-
-Exclusivité
-
-Appartement
-
-### T3 Port de Carqueiranne
-
-54 m²3 pièces
-
-268 000 €Voir→
+1 bien disponible à Carqueiranne
 
 [Image : Coup de Cœur - Villa Rénovée - Font Brun Carqueiranne]
 

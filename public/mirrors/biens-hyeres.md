@@ -2,7 +2,7 @@
 title: "Immobilier à Hyères — Maisons et villas à vendre | Rivage Immobilier"
 description: "Découvrez nos biens à vendre à Hyères : maisons, villas, appartements. Rivage Immobilier, votre agence locale depuis 30 ans."
 url: "https://www.rivage-immobilier.com/biens/hyeres"
-last_updated: "2026-10-27"
+last_updated: "2026-10-28"
 source: "Rivage Immobilier"
 ---
 
@@ -14,7 +14,33 @@ Capitale de la presqu'île d'Or, Hyères allie plages, pinèdes et architecture 
 
 ToutesHyèresCarqueiranneLa Londe-les-MauresBormes-les-MimosasToulonLe PradetLa ValetteLe LavandouLa CrauLa GardeSolliès-PontVar
 
-6 biens disponibles à Hyères
+8 biens disponibles à Hyères
+
+[Image : T2 Hyères Port - Expo sud avec balcon, refait à neuf & parking !]
+
+Hyères
+
+Appartement
+
+### T2 Hyères Port - Expo sud avec balcon, refait à neuf & parking !
+
+47 m²2 pièces
+
+284 000 €Voir→
+
+[Image : Exclusivité - Le Loft - 500m² - Hyères centre]
+
+Hyères
+
+Exclusivité
+
+Maison
+
+### Exclusivité - Le Loft - 500m² - Hyères centre
+
+501 m²8 pièces
+
+1 249 000 €Voir→
 
 [Image : T2 Hyères Port - Expo sud avec balcon, refait à neuf & parking !]
 
@@ -64,7 +90,7 @@ Appartement
 
 30 m²2 pièces
 
-184 000 €Voir→
+179 000 €Voir→
 
 [Image : Coup de Cœur - T2 clés en main sur le port de Hyères]
 
