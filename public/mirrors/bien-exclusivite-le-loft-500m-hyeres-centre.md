@@ -2,7 +2,7 @@
 title: "Exclusivité - Le Loft - 500m² - Hyères centre  — Hyères | Rivage Immobilier"
 description: "Maison à vendre à Hyères. 501 m², 1 249 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/exclusivite-le-loft-500m-hyeres-centre"
-last_updated: "2026-10-29"
+last_updated: "2026-10-30"
 source: "Rivage Immobilier"
 ---
 

@@ -2,7 +2,7 @@
 title: "Biens à vendre — Côte Varoise | Rivage Immobilier"
 description: "Maisons, villas et appartements à vendre à Hyères, Carqueiranne, La Londe-les-Maures et Bormes-les-Mimosas. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/biens"
-last_updated: "2026-10-29"
+last_updated: "2026-10-30"
 source: "Rivage Immobilier"
 ---
 
@@ -10,7 +10,7 @@ Portefeuille
 
 # Nos biens
 
-10 biens disponibles
+11 biens disponibles
 
 ToutesHyèresCarqueiranneLa LondeBormesToulonLe PradetLa ValetteLe LavandouLa CrauLa GardeSolliès-PontVar
 
@@ -89,6 +89,18 @@ Villa
 199 m²5 pièces
 
 2 500 000 €Voir→
+
+[Image : Coup de Cœur - Villa Rénovée - L'Ayguade - Pleine Propriété]
+
+Hyères
+
+Maison
+
+### Coup de Cœur - Villa Rénovée - L'Ayguade - Pleine Propriété
+
+167 m²8 pièces
+
+915 000 €Voir→
 
 [Image : Maison de plain pied à deux pas de la plage]
 
