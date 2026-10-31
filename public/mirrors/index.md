@@ -1,6 +1,6 @@
 # Rivage Immobilier - Markdown Mirrors
 
-Generated: 2026-10-30
+Generated: 2026-10-31
 
 ## Pages disponibles
 
@@ -19,6 +19,7 @@ Generated: 2026-10-30
 - [https://www.rivage-immobilier.com/bien/exclusivite-le-loft-500m-hyeres-centre](https://www.rivage-immobilier.com/mirrors/bien-exclusivite-le-loft-500m-hyeres-centre.md)
 - [https://www.rivage-immobilier.com/bien/bastide-du-xviie-siecle-provence-verte](https://www.rivage-immobilier.com/mirrors/bien-bastide-du-xviie-siecle-provence-verte.md)
 - [https://www.rivage-immobilier.com/bien/t2-hyeres-port-expo-sud-avec-balcon-refait-a-neuf-and-parking](https://www.rivage-immobilier.com/mirrors/bien-t2-hyeres-port-expo-sud-avec-balcon-refait-a-neuf-and-parking.md)
+- [https://www.rivage-immobilier.com/bien/coup-de-coeur-villa-renovee-l-ayguade-pleine-propriete](https://www.rivage-immobilier.com/mirrors/bien-coup-de-coeur-villa-renovee-l-ayguade-pleine-propriete.md)
 - [https://www.rivage-immobilier.com/bien/coup-de-coeur-t2-cles-en-main-sur-le-port-de-hyeres](https://www.rivage-immobilier.com/mirrors/bien-coup-de-coeur-t2-cles-en-main-sur-le-port-de-hyeres.md)
 - [https://www.rivage-immobilier.com/bien/t2-aux-salins-le-pied-a-terre-ideal-a-deux-pas-des-plages](https://www.rivage-immobilier.com/mirrors/bien-t2-aux-salins-le-pied-a-terre-ideal-a-deux-pas-des-plages.md)
 - [https://www.rivage-immobilier.com/honoraires](https://www.rivage-immobilier.com/mirrors/honoraires.md)
