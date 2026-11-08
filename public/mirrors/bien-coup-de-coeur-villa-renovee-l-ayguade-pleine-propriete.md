@@ -2,7 +2,7 @@
 title: "Coup de Cœur - Villa Rénovée - L'Ayguade - Pleine Propriété  — Hyères | Rivage Immobilier"
 description: "Maison à vendre à Hyères. 167 m², 915 000 €. Rivage Immobilier."
 url: "https://www.rivage-immobilier.com/bien/coup-de-coeur-villa-renovee-l-ayguade-pleine-propriete"
-last_updated: "2026-11-07"
+last_updated: "2026-11-08"
 source: "Rivage Immobilier"
 ---
 
